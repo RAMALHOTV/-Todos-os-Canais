@@ -1,5 +1,5 @@
 
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Todos os canais ", Todos os canais 
 http://212.224.9
