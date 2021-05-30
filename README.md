@@ -1,336 +1,493 @@
 
+
+
+
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Todos os canais ",RAMALHOTV VIP Todos os canais 
 http://212.224.9
 
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8816
-#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275192
-#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: All Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7321
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8845
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8890
-#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273381
-#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28fbfc2b0f0a676bcfdce95e4aa10b32.png" group-title="Brazil",BR: ARTE 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8833
-#EXTINF:-1 tvg-id="" tvg-name="BR: Automotor & Sport HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8b4746f0709ec4decccab3d302291fa.png" group-title="Brazil",BR: Automotor & Sport HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/16430
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/81f85350c982e88a4ea07ac7802bd319.png" group-title="Brazil",BR: AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8852
-#EXTINF:-1 tvg-id="" tvg-name="BR: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6d547caaa4b83ed3088387753a2e8b35.png" group-title="Brazil",BR: Baby TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8922
-#EXTINF:-1 tvg-id="" tvg-name="BR BABY TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR BABY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274327
-#EXTINF:-1 tvg-id="" tvg-name="BR: Band News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d28d24f816db20ed14be5bed3411a00f.png" group-title="Brazil",BR: Band News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14486
-#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="Brazil",BR: Band Sports FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8777
-#EXTINF:-1 tvg-id="" tvg-name="BR: Band Vale HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ebd85951f6c4ef7cefe147f04f79fd12.png" group-title="Brazil",BR: Band Vale HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8938
-#EXTINF:-1 tvg-id="" tvg-name="BR: BIS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f6b3a65232a363941b122d1fe94bc141.png" group-title="Brazil",BR: BIS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24621
-#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3a6f00998c394d719e3ac4c8d9e0d2f8.png" group-title="Brazil",BR: Boomerang FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8915
-#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd8d3e37bf7419f9ef467b1b72b4de69.png" group-title="Brazil",BR: Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14569
-#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Do Boi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Canal Do Boi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/245587
-#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Off" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d1934276e9e185fb324c51a5444d2b1f.png" group-title="Brazil",BR: Canal Off
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14532
-#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Viva HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf38f142d7972014e3b9a1c57a20d863.png" group-title="Brazil",BR: Canal Viva HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14553
-#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/072885790a3958b2fbf1e2ad147e4d16.png" group-title="Brazil",BR: Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8913
-#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273292
-#EXTINF:-1 tvg-id="" tvg-name="BR: Casa E Cozinha FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/eaa098e742c7bfad705ed3c7b8f83e01.png" group-title="Brazil",BR: Casa E Cozinha FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275873
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE+" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/706adb6981504da3449f7ab07c7a0dc6.png" group-title="Brazil",BR: CINE+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7335
-#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ec43da7ea739837c267ab3a8d00686c9.png" group-title="Brazil",BR: Cinemax FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8834
-#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ed84a46ac48297c8570ab55c56ce116c.png" group-title="Brazil",BR: CNN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148404
-#EXTINF:-1 tvg-id="" tvg-name="BR: Combate FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f8ef6dd50c1b857e4927b6acf17e1f5e.png" group-title="Brazil",BR: Combate FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8778
-#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7f092ab65baeb81a33b9ee3ff4ad965e.png" group-title="Brazil",BR: Comedy Central HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8779
-#EXTINF:-1 tvg-id="" tvg-name="BR: Cultura" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b817ca558818964c793cd8a93699d335.png" group-title="Brazil",BR: Cultura
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14491
-#EXTINF:-1 tvg-id="" tvg-name="BR: Curta HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/cccd63096c349feec570817a3c6e5eda.png" group-title="Brazil",BR: Curta HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/166654
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/35d7ee941b53c4f9c2960522b9576053.png" group-title="Brazil",BR: Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8904
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273730
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ef28a86d6d91e1ebe8ebfaa2c2723c7.png" group-title="Brazil",BR: Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8893
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273726
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/41874f43f68dd9d227706e4272cc8494.png" group-title="Brazil",BR: Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8910
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Science HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273731
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/eccdb9fd544de19f5a47da8c16b7fd94.png" group-title="Brazil",BR: Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8892
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery THEATER FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery THEATER FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273725
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f4ada104772fecc970f160730ac56e3e.png" group-title="Brazil",BR: Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8891
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273724
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Brazil",BR: Discovery World Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8894
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery WORLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery WORLD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273727
-#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Brazil",BR: Disney Channel
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8895
-#EXTINF:-1 tvg-id="" tvg-name="BR Disney Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274547
-#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ee3dbf19ac4cdf59a75ea3cf6310d90.png" group-title="Brazil",BR: Disney Junior FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8916
-#EXTINF:-1 tvg-id="" tvg-name="BR Disney JR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274548
-#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/def76639e5be8fb9e81013303abd42ab.png" group-title="Brazil",BR: Disney XD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8917
-#EXTINF:-1 tvg-id="" tvg-name="BR Disney XD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney XD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274549
-#EXTINF:-1 tvg-id="" tvg-name="BR: DJing HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: DJing HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/173282
-#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/101a9a6578e355d9f5d280187b92598d.png" group-title="Brazil",BR: E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14501
-#EXTINF:-1 tvg-id="" tvg-name="BR E! HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275206
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="Brazil",BR: ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8801
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275061
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/584cdcc06374b5da55ce65811d436b27.png" group-title="Brazil",BR: ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/10867
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275064
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil",BR: ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8789
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275059
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil",BR: ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8793
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275060
-#EXTINF:-1 tvg-id="" tvg-name="BR: FilmBox Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/948f97f6fe8d628700e717e6bf6337bc.png" group-title="Brazil",BR: FilmBox Extra HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/16377
-#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c96f00b734b9db864fa9bba4f95aa9e.png" group-title="Brazil",BR: Fish TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8848
-#EXTINF:-1 tvg-id="" tvg-name="BR: Fonte TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2821ef03054efdda9b65e0bbb94a37c.png" group-title="Brazil",BR: Fonte TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275967
-#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a7dc053343d5b5f17371e7ba09b9f23d.png" group-title="Brazil",BR: Food Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8863
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4bfd4a035f282bfca1d50528a4ac7c61.png" group-title="Brazil",BR: FOX Crime
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/16366
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c7f5dd8742f28244a9992857aa579966.png" group-title="Brazil",BR: FOX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8817
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a039317fef01e1a724457eed252db22c.png" group-title="Brazil",BR: FOX Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8818
-#EXTINF:-1 tvg-id="" tvg-name="BR FOX Life FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR FOX Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273963
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="Brazil",BR: FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8776
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c324e02d5a437786a2e0e9657c52501.png" group-title="Brazil",BR: FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8780
-#EXTINF:-1 tvg-id="" tvg-name="BR: Futura FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/67909c2228c64ce8423a828571f3a90e.png" group-title="Brazil",BR: Futura FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7342
-#EXTINF:-1 tvg-id="" tvg-name="BR: FX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29b0fa9fe99cc48a8942c636566b1f3a.png" group-title="Brazil",BR: FX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8835
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Brasilia HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6e946ca316181a527be5ab513b93a9f1.png" group-title="Brazil",BR: Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24556
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2c3ccc72192f58d85006755f44de4ee8.png" group-title="Brazil",BR: Globo News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14513
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fb90de64b7294ef6f6c257cec9eebb52.png" group-title="Brazil",BR: Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24551
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af0df6b05c9fadc3efcdb89d1b51f0aa.png" group-title="Brazil",BR: Globo NSC TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/201034
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3f7e24fb852ee92d626b3d9978240959.png" group-title="Brazil",BR: Globo RBS Porto Alegre FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148423
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rio de Janeiro HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/186f7a0b07e33c9d29a5a51adbfd7521.png" group-title="Brazil",BR: Globo Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/30437
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sao Paulo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/70ce6ee15b1b77963ae064befa94e2f4.png" group-title="Brazil",BR: Globo Sao Paulo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14514
-#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/34a173f24d6a5f0b68e1526ca063537f.png" group-title="Brazil",BR: Gloob HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14605
-#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f9e7782911f80ec04ad4fb4fa63f1df9.png" group-title="Brazil",BR: GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8856
-#EXTINF:-1 tvg-id="" tvg-name="BR: Gospel Movies Television HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Gospel Movies Television HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7346
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO + FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/73c84cd25a33650a215c8ae7ccd4714f.png" group-title="Brazil",BR: HBO + FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8823
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/de30880a0e32854862b81cebfdff4f32.png" group-title="Brazil",BR: HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8821
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a5f0e3d6c8aa749bb2a72f1b6c77059a.png" group-title="Brazil",BR: HBO Family FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8839
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/021ac0dac6526eb0c4d8f609b0981a4a.png" group-title="Brazil",BR: HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8822
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/0f43c56edfab944cec1a8b9571713c82.png" group-title="Brazil",BR: HBO Mundi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8837
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/48ac45310042b36f1406d7d73b9bf562.png" group-title="Brazil",BR: HBO Pop FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/173434
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c93e59083a2c4efbb21fd5c43406d7b8.png" group-title="Brazil",BR: HBO Signature FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8836
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/535557537268d0798ae4e911306c09a7.png" group-title="Brazil",BR: HBO Xtreme HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8824
-#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/11f067c48dbaca37b55e0c0d5c3f99a1.png" group-title="Brazil",BR: HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/147274
-#EXTINF:-1 tvg-id="" tvg-name="BR HGTV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275122
-#EXTINF:-1 tvg-id="" tvg-name="BR: History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8a357a5ab6db772ce2e87f2dbb5256f7.png" group-title="Brazil",BR: History 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14516
-#EXTINF:-1 tvg-id="" tvg-name="BR History 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274216
-#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/77158ed2afb6b36f6b2391f9c81e58e9.png" group-title="Brazil",BR: History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8901
-#EXTINF:-1 tvg-id="" tvg-name="BR History Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274210
-#EXTINF:-1 tvg-id="" tvg-name="BR: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bc5c44c1809c5a734c7c501031cf5a61.png" group-title="Brazil",BR: Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14529
-#EXTINF:-1 tvg-id="" tvg-name="BR Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273757
-#EXTINF:-1 tvg-id="" tvg-name="BR: Lifetime FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd2a830872db8c292f651865bb5f9e2c.png" group-title="Brazil",BR: Lifetime FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8864
-#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a9fef0ba3f713455f75c32ef4972427c.png" group-title="Brazil",BR: MAIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/172474
-#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b2ea93a81aca350f419921ea9805a21a.png" group-title="Brazil",BR: Megapix HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8842
-#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e28bcf462d5d2310a16ec7fb6edbc24f.png" group-title="Brazil",BR: MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/147283
-#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29748e0843a2065098876094dc8d6bf5.png" group-title="Brazil",BR: Multishow HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14528
-#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0d04ee1d714d8d0438b6c5ed4844dfe0.png" group-title="Brazil",BR: Music Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/278696
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/17bdba6f29d02a26d662d201e5804c35.png" group-title="Brazil",BR: NAT GEO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14531
-#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274121
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png" group-title="Brazil",BR: NAT GEO Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8914
-#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274114
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Brazil",BR: NAT GEO Wild FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8905
-#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO WILD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274113
-#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f523ee76185126c81ac4521434468814.png" group-title="Brazil",BR: Paramount Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8859
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil",BR: Premiere FC 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8785
-#EXTINF:-1 tvg-id="" tvg-name="BR: RBA TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2a333f5505dc167379d15fa165fe114c.png" group-title="Brazil",BR: RBA TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/166057
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record MG HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a3ed1db4a1ec024112617ce654b17054.png" group-title="Brazil",BR: Record MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24545
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record Nacional HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e7c4dce15e1d97ccf17aa5a3db786c24.png" group-title="Brazil",BR: Record Nacional HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/39866
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bb95e6c45c58aea39e6fdfe87185c4bb.png" group-title="Brazil",BR: Record News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14540
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b43bff9f09d54a18c360328de51b422e.png" group-title="Brazil",BR: Record RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/27204
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/16779345aaa48d7df5518d6e5b4d8adf.png" group-title="Brazil",BR: Record SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14639
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1b07b35795cf3da6514d5e426d82a7fa.png" group-title="Brazil",BR: Record TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/10872
-#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Brasil FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ac8923fb0d25cd657ca3a6aea32ecd1.png" group-title="Brazil",BR: Rede Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7354
-#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Familia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9d3b10a6ff92f8c383195da7ac5974b9.png" group-title="Brazil",BR: Rede Familia FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/193339
-#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6b253a01186afa06ae267c682e6f805c.png" group-title="Brazil",BR: Rede Gospel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/193342
-#EXTINF:-1 tvg-id="" tvg-name="BR: Rede HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ad72e8a6012c32bb3dc7cfb57167f5a4.png" group-title="Brazil",BR: Rede HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7359
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7367
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Parana HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/88b77dfd2e60a720f1f90981deaa6f67.png" group-title="Brazil",BR: SBT Parana HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24541
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5c20bc002af8dadb65d2521086bc3437.png" group-title="Brazil",BR: SBT RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148295
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/68ab69d0c15b5d2e4b427da8a8eb8f07.png" group-title="Brazil",BR: SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148409
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sony Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b650d306029b0434e50ff20f55752ce4.jpg" group-title="Brazil",BR: Sony Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8882
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil",BR: SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8783
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/37193
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Brazil",BR: SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8784
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/37194
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil",BR: SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/4015
-#EXTINF:-1 tvg-id="" tvg-name="BR: Star Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a9f643d5f5258d19da9374a1491f2e.png" group-title="Brazil",BR: Star Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/278658
-#EXTINF:-1 tvg-id="" tvg-name="BR: Star Hits 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4a8263353ca57c2965f12d41057c0e08.png" group-title="Brazil",BR: Star Hits 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/278661
-#EXTINF:-1 tvg-id="" tvg-name="BR: Star Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7f31a50e5ce2f13175b43aa6263334e8.png" group-title="Brazil",BR: Star Hits HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/278660
-#EXTINF:-1 tvg-id="" tvg-name="BR: Star Life HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fddc9b66d6fbd707fca7cd27a4f93485.png" group-title="Brazil",BR: Star Life HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/278659
-#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/5707fe8a0dcc6b71bccb7e5f53a7c4ba.png" group-title="Brazil",BR: Studio Universal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8826
-#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/972867e3ec0db38c275223add00c4d45.png" group-title="Brazil",BR: SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14485
-#EXTINF:-1 tvg-id="" tvg-name="BR: TBS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e4693a207df434a6920712ae75db8897.png" group-title="Brazil",BR: TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14649
-#EXTINF:-1 tvg-id="" tvg-name="BR: TCM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1465b8cc567084627f7a78332bc7f39a.png" group-title="Brazil",BR: TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8853
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/382394f54e1cba9d754816738704301a.png" group-title="Brazil",BR: Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/193685
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/925e3612d2b98fe7d83b4eab71e1a4ec.png" group-title="Brazil",BR: Telecine Cult FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/197080
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b85207092bfc198d2487690fbe3e53ea.png" group-title="Brazil",BR: Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8831
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c78a744003315a9cb807d6a4e2525a91.png" group-title="Brazil",BR: Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8830
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2483792e92c1dd609fcfe7ce17a61178.png" group-title="Brazil",BR: Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8829
-#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/238fbd6483ed57f1a9a63a993d2bfff0.png" group-title="Brazil",BR: Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8828
-#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68957793aa8d6562c337f95a0e2b9ac2.png" group-title="Brazil",BR: TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7370
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8f2a7e44e82191ea91b4de87268d3fb.png" group-title="Brazil",BR: TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8840
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7e7dc3364e03186daa5e25bb25fb185f.png" group-title="Brazil",BR: TNT Series FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8827
-#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/196dfc072cf13734a863154709d33390.png" group-title="Brazil",BR: Tooncast HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8927
-#EXTINF:-1 tvg-id="" tvg-name="BR: Tru TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/929e53b5bdf520e69e11c48edb0a278f.png" group-title="Brazil",BR: Tru TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/173443
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Aparecida FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7379
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9c356c9a1b5029c9a5ca4c0a1051ba39.png" group-title="Brazil",BR: TV Brasil
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/24284
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Novo Tempo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/83f70bd11eee502c3e2f9224342cf961.png" group-title="Brazil",BR: TV Novo Tempo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7411
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Pai Eterno FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aed42a5ab387cb1a81ae2266b4e9e47a.png" group-title="Brazil",BR: TV Pai Eterno FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/166054
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Parana Turismo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf6e1233552b89aedce24100583925c7.png" group-title="Brazil",BR: TV Parana Turismo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/166056
-#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1d04a3208a6ce40e8717ff95febbe43.png" group-title="Brazil",BR: TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148405
-#EXTINF:-1 tvg-id="" tvg-name="BR: Universal TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55f491eb5cf79d059b092c8f419096ff.png" group-title="Brazil",BR: Universal TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/7422
-#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3c17cf4dab21fd64ae348c82828fc2c7.png" group-title="Brazil",BR: VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14658
-#EXTINF:-1 tvg-id="" tvg-name="BR VH1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",BR VH1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275149
-#EXTINF:-1 tvg-id="" tvg-name="BR: Viva HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d108d4ed6d37f059df3c338a0cc92544.png" group-title="Brazil",BR: Viva HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/192945
-#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Bros HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a0d05e26a50d5cb1936f963ba580263e.png" group-title="Brazil",BR: Warner Bros HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8825
-#EXTINF:-1 tvg-id="" tvg-name="BR: WooHoo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1fab44da99480e4910bb7bfc3bc7c5e.png" group-title="Brazil",BR: WooHoo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14555
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band SP Interior
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/Ae2FZ2C.png" group-title="TV Aberta",Record SP Interior
+http://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1097050111_b826145_DVR.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV PB HD
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1097050111_b2434992_DVR.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################ Esportes
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
+http://212.224.98.208:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
+http://212.224.98.208:2200/BR/Premiere_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3
+http://212.224.98.208:2200/BR/Premiere_3_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4
+http://212.224.98.208:2200/BR/Premiere_4_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5
+http://212.224.98.208:2200/BR/Premiere_5_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6
+http://212.224.98.208:2200/BR/Premiere_6_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7
+http://212.224.98.208:2200/BR/Premiere_7_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8
+http://212.224.98.208:2200/BR/Premiere_8_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV
+http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV 2
+http://50.7.34.90:8090/live/CONMEBOL_TV2_HD?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN
+
+#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
+http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
+http://212.224.98.210:2200/BR/Band_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://212.224.98.210:2200/BR/Combate_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+http://212.224.98.210:2200/BR/Sportv_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
+http://212.224.98.210:2200/BR/Sportv_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
+http://212.224.98.210:2200/BR/Sportv_3_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://212.224.98.210:2200/BR/Fox_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://212.224.98.210:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# Infantil
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
+http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
+
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
+http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
+
+#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
+http://212.224.98.208:2200/BR/NatGeoKidsHD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
+http://212.224.98.208:2200/BR/babytv-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://212.224.98.208:2200/BR/Boomerang_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://212.224.98.208:2200/BR/Tooncast-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+http://212.224.98.208:2200/BR/Nickelodeon_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
+http://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://212.224.98.208:2200/BR/Gloob_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+http://212.224.98.208:2200/BR/Cartoon_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
+http://212.224.98.208:2200/BR/Discovery_Ks_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# Filmes e Series
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
+http://212.224.98.208:2200/BR/HBO_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
+http://212.224.98.208:2200/BR/HBO_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/8fOTz2r.png" group-title="Filmes e Séries",HBO Plus
+http://212.224.98.208:2200/BR/HBO_Plus_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
+http://212.224.98.208:2200/BR/HBO_Signature_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
+http://212.224.98.208:2200/BR/HBO_Family_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="http://i.imgur.com/5q7QN2J.png" group-title="Filmes e Séries",HBO Mundi
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="http://i.imgur.com/nO17EQV.png" group-title="Filmes e Séries",HBO Xtreme
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="http://i.imgur.com/1eslf5M.png" group-title="Filmes e Séries",HBO Pop
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
+http://212.224.98.208:2200/BR/Cinemax_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/9n9boo3.png" group-title="Filmes e Séries",Telecine Action
+http://212.224.98.208:2200/BR/Telecine_Action_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://i.imgur.com/ZZxY55p.png" group-title="Filmes e Séries",Telecine Premium
+http://212.224.98.208:2200/BR/Telecine_Premium_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://i.imgur.com/Ns47Tfm.png" group-title="Filmes e Séries",Telecine Touch
+http://212.224.98.208:2200/BR/Telecine_Touch_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://i.imgur.com/9nwihyb.png" group-title="Filmes e Séries",Telecine Fun
+http://212.224.98.208:2200/BR/Telecine_Fun_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/HtsOTJm.png" group-title="Filmes e Séries",Telecine Pipoca
+http://212.224.98.208:2200/BR/Telecine_Pipoca_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://i.imgur.com/fPwVtGc.png" group-title="Filmes e Séries",Telecine Cult
+http://212.224.98.208:2200/BR/Telecine_Touch_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts HD
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC HD
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://i.imgur.com/pjtRpMJ.png" group-title="Filmes e Séries",Star Channel
+http://212.224.98.208:2200/BR/Fox_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="STAR HITS 1" tvg-logo="http://i.imgur.com/ie6taEZ.png" group-title="Filmes e Séries",Star Hits 1
+http://212.224.98.208:2200/BR/Fox_Premium_1_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="STAR HITS 2" tvg-logo="http://i.imgur.com/bYR6Cmh.png" group-title="Filmes e Séries",Star Hits 2
+http://212.224.98.208:2200/BR/Fox_Premium_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
+http://212.224.98.208:2200/BR/FX_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
+http://212.224.98.208:2200/BR/Megapix_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
+http://212.224.98.208:2200/BR/Space_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+http://cdn-1.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
+http://cdn-1.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/OAm1Jy6.png" group-title="Filmes e Séries",Comedy Central
+http://212.224.98.208:2200/BR/Comedy_Central_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
+
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+http://212.224.98.208:2200/BR/SyFy_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
+http://212.224.98.208:2200/BR/Studio_Universal_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/KjvoSeG.png" group-title="Filmes e Séries",Sony
+http://212.224.98.208:2200/BR/Canal_Sony_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
+http://212.224.98.208:2200/BR/TNT_Series_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
+http://212.224.98.208:2200/BR/TNT_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
+http://212.224.98.208:2200/BR/Universal_TV_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
+http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
+http://212.224.98.208:2200/BR/Warner_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+################################################################################# Notícias
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News
+http://212.224.98.208:2200/BR/Globo_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
+http://212.224.98.208:2200/BR/Band_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil HD
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YGEVYXL.png" group-title="Notícias",Boston 25 News
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/z9SzvD0.png" group-title="Notícias",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YWaz2js.png" group-title="Notícias",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="Notícias",Porto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Notícias",Bloomberg
+http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Notícias",RTP1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Notícias",RTP2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="Notícias",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IipATsJ.png" group-title="Notícias",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# Documentários
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
+
+#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
+http://212.224.98.208:2200/BR/Curta_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime
+http://212.224.98.208:2200/BR/Lifetime_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo="http://i.imgur.com/xgAalG7.png" group-title="Documentários",Star Life
+http://212.224.98.208:2200/BR/Fox_Life_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E
+http://212.224.98.208:2200/BR/AE_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
+http://212.224.98.208:2200/BR/TLC_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
+http://212.224.98.208:2200/BR/E_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+http://212.224.98.208:2200/BR/Animal_Planet_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
+http://212.224.98.208:2200/BR/Nat_Geo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+http://212.224.98.208:2200/BR/NatGeo_Wild_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+http://212.224.98.208:2200/BR/The_History_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="http://i.imgur.com/4P92vil.png" group-title="Documentários",History 2
+http://212.224.98.208:2200/BR/History_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
+http://212.224.98.208:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://212.224.98.208:2200/BR/Discovery_Turbo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
+http://212.224.98.208:2200/BR/ID_-_Investi_Discovery_HD/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
+http://212.224.98.208:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://212.224.98.208:2200/BR/Discovery_Science_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
+http://212.224.98.208:2200/BR/Discovery_World_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+################################################################################# Canais Variedade
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
+http://212.224.98.208:2200/BR/Food_Network_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil
+http://212.224.98.208:2200/BR/Canal_Brasil_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
+http://212.224.98.208:2200/BR/Viva_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT
+http://212.224.98.208:2200/BR/GNT_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis
+http://212.224.98.208:2200/BR/BIS_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow HD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat
+http://212.224.98.208:2200/BR/Mais_Globosat_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
+http://212.224.98.208:2200/BR/MTV_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live
+http://cdn-1.nxplay.com.br/MTVNI_HD_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live HD
+http://cdn-1.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
+http://212.224.98.208:2200/BR/VH1_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits
+http://212.224.98.208:2200/BR/vh1megahits-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
+http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil
+http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
