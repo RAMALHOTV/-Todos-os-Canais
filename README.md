@@ -1,1757 +1,906 @@
+
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
-https://www.youtube.com/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
-https://www.youtube.com
+ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/04/2022
-https://www.youtube.com/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 15/05/2022
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV
-https://www.youtube.com
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-https://www.youtube.com/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144
-https://www.youtube.com/
-
-
-#EXTINF:-1,A&E FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12001
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12002
-#EXTINF:-1,A&E HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12003
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12004
-#EXTINF:-1,A&E SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12005
-#EXTINF:-1,BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12006
-#EXTINF:-1,BIS FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12007
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12008
-#EXTINF:-1,BIS HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12009
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12010
-#EXTINF:-1,BIS SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12011
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12012
-#EXTINF:-1,Comedy Central FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12013
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12014
-#EXTINF:-1,Comedy Central HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12015
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12016
-#EXTINF:-1,Comedy Central SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12017
-#EXTINF:-1,Discovery H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12018
-#EXTINF:-1,Discovery H&H FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12019
-#EXTINF:-1,Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12020
-#EXTINF:-1,Discovery H&H HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12021
-#EXTINF:-1,Discovery H&H SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12022
-#EXTINF:-1,Discovery H&H SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12023
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12024
-#EXTINF:-1,Discovery Turbo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12025
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12026
-#EXTINF:-1,Discovery Turbo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12027
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12028
-#EXTINF:-1,Discovery Turbo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12029
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12030
-#EXTINF:-1,E! FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12031
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12032
-#EXTINF:-1,E! HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12033
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12034
-#EXTINF:-1,E! SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12035
-#EXTINF:-1,FishTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12042
-#EXTINF:-1,FishTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12043
-#EXTINF:-1,FishTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12044
-#EXTINF:-1,FishTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12045
-#EXTINF:-1,FishTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12046
-#EXTINF:-1,FishTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12047
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12048
-#EXTINF:-1,Food Network FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12049
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12050
-#EXTINF:-1,Food Network HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12051
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12052
-#EXTINF:-1,Food Network SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12053
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12054
-#EXTINF:-1,GNT FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12055
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12056
-#EXTINF:-1,GNT HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12057
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12058
-#EXTINF:-1,GNT SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12059
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12060
-#EXTINF:-1,Lifetime FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12061
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12062
-#EXTINF:-1,Lifetime HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12063
-#EXTINF:-1,Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12064
-#EXTINF:-1,Lifetime SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12065
-#EXTINF:-1,Loading FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12066
-#EXTINF:-1,Loading FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12067
-#EXTINF:-1,Loading HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12068
-#EXTINF:-1,Loading HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12069
-#EXTINF:-1,Loading SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12070
-#EXTINF:-1,Loading SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12071
-#EXTINF:-1,Mais GloboSat FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12072
-#EXTINF:-1,Mais GloboSat FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12073
-#EXTINF:-1,Mais GloboSat HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12074
-#EXTINF:-1,Mais GloboSat HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12075
-#EXTINF:-1,Mais GloboSat SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12076
-#EXTINF:-1,Mais GloboSat SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12077
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12078
-#EXTINF:-1,MTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12079
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12080
-#EXTINF:-1,MTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12081
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12082
-#EXTINF:-1,MTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12083
-#EXTINF:-1,MTV Live 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12084
-#EXTINF:-1,MTV Live FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12085
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12086
-#EXTINF:-1,MTV Live HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12087
-#EXTINF:-1,MTV Live SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12088
-#EXTINF:-1,MTV Live SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12089
-#EXTINF:-1,Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12090
-#EXTINF:-1,Multishow FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12091
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12092
-#EXTINF:-1,Multishow HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12093
-#EXTINF:-1,Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12094
-#EXTINF:-1,Multishow SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12095
-#EXTINF:-1,Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12096
-#EXTINF:-1,Music Box Brazil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12097
-#EXTINF:-1,Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12098
-#EXTINF:-1,Music Box Brazil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12099
-#EXTINF:-1,Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12100
-#EXTINF:-1,Music Box Brazil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12101
-#EXTINF:-1,Off FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12102
-#EXTINF:-1,Off FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12103
-#EXTINF:-1,Off HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12104
-#EXTINF:-1,Off HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12105
-#EXTINF:-1,Off SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12106
-#EXTINF:-1,Off SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12107
-#EXTINF:-1,Cinecanal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12114
-#EXTINF:-1,Cinecanal FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12115
-#EXTINF:-1,Cinecanal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12116
-#EXTINF:-1,Cinecanal HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12117
-#EXTINF:-1,Cinecanal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12118
-#EXTINF:-1,Cinecanal SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12119
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12120
-#EXTINF:-1,TLC FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12121
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12122
-#EXTINF:-1,TLC HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12123
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12124
-#EXTINF:-1,TLC SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12125
-#EXTINF:-1,TruTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12126
-#EXTINF:-1,TruTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12127
-#EXTINF:-1,TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12128
-#EXTINF:-1,TruTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12129
-#EXTINF:-1,TruTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12130
-#EXTINF:-1,TruTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12131
-#EXTINF:-1,VH1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12132
-#EXTINF:-1,VH1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12133
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12134
-#EXTINF:-1,VH1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12135
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12136
-#EXTINF:-1,VH1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12137
-#EXTINF:-1,Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12138
-#EXTINF:-1,Viva FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12139
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12140
-#EXTINF:-1,Viva HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12141
-#EXTINF:-1,Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12142
-#EXTINF:-1,Viva SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12143
-#EXTINF:-1,WooHoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12144
-#EXTINF:-1,WooHoo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12145
-#EXTINF:-1,WooHoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12146
-#EXTINF:-1,WooHoo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12147
-#EXTINF:-1,WooHoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12148
-#EXTINF:-1,WooHoo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/12149
-#EXTINF:-1,AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13000
-#EXTINF:-1,AMC FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13001
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13002
-#EXTINF:-1,AMC HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13003
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13004
-#EXTINF:-1,AMC SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13005
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13006
-#EXTINF:-1,AXN FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13007
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13008
-#EXTINF:-1,AXN HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13009
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13010
-#EXTINF:-1,AXN SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13011
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13012
-#EXTINF:-1,Canal Brasil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13013
-#EXTINF:-1,Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13014
-#EXTINF:-1,Canal Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13015
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13016
-#EXTINF:-1,Canal Brasil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13017
-#EXTINF:-1,Canal Sony FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13018
-#EXTINF:-1,Canal Sony FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13019
-#EXTINF:-1,Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13020
-#EXTINF:-1,Canal Sony HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13021
-#EXTINF:-1,Canal Sony SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13022
-#EXTINF:-1,Canal Sony SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13023
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13024
-#EXTINF:-1,Cinemax FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13025
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13026
-#EXTINF:-1,Cinemax HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13027
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13028
-#EXTINF:-1,Cinemax SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13029
-#EXTINF:-1,Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13030
-#EXTINF:-1,Star Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13031
-#EXTINF:-1,Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13032
-#EXTINF:-1,Star Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13033
-#EXTINF:-1,Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13034
-#EXTINF:-1,Star Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13035
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13048
-#EXTINF:-1,FX FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13049
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13050
-#EXTINF:-1,FX HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13051
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13052
-#EXTINF:-1,FX SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13053
-#EXTINF:-1,Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13054
-#EXTINF:-1,Megapix FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13055
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13056
-#EXTINF:-1,Megapix HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13057
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13058
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13059
-#EXTINF:-1,Paramount Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13060
-#EXTINF:-1,Paramount Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13061
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13062
-#EXTINF:-1,Paramount Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13063
-#EXTINF:-1,Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13064
-#EXTINF:-1,Paramount Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13065
-#EXTINF:-1,Smithsonian Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13066
-#EXTINF:-1,Smithsonian Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13067
-#EXTINF:-1,Smithsonian Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13068
-#EXTINF:-1,Smithsonian Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13069
-#EXTINF:-1,Smithsonian Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13070
-#EXTINF:-1,Smithsonian Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13071
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13072
-#EXTINF:-1,Space FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13073
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13074
-#EXTINF:-1,Space HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13075
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13076
-#EXTINF:-1,Space SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13077
-#EXTINF:-1,SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13078
-#EXTINF:-1,SyFy FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13079
-#EXTINF:-1,SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13080
-#EXTINF:-1,SyFy HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13081
-#EXTINF:-1,SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13082
-#EXTINF:-1,SyFy SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13083
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13084
-#EXTINF:-1,TBS FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13085
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13086
-#EXTINF:-1,TBS HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13087
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13088
-#EXTINF:-1,TBS SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13089
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13090
-#EXTINF:-1,TNT FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13091
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13092
-#EXTINF:-1,TNT HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13093
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13094
-#EXTINF:-1,TNT SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13095
-#EXTINF:-1,TNT Séries FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13096
-#EXTINF:-1,TNT Séries FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13097
-#EXTINF:-1,TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13098
-#EXTINF:-1,TNT Séries HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13099
-#EXTINF:-1,TNT Séries SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13100
-#EXTINF:-1,TNT Séries SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13101
-#EXTINF:-1,Universal Studio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13102
-#EXTINF:-1,Universal Studio FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13103
-#EXTINF:-1,Universal Studio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13104
-#EXTINF:-1,Universal Studio HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13105
-#EXTINF:-1,Universal Studio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13106
-#EXTINF:-1,Universal Studio SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13107
-#EXTINF:-1,Universal TV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13108
-#EXTINF:-1,Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13109
-#EXTINF:-1,Universal TV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13110
-#EXTINF:-1,Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13111
-#EXTINF:-1,Universal TV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13112
-#EXTINF:-1,Universal TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13113
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13114
-#EXTINF:-1,Warner Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13115
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13116
-#EXTINF:-1,Warner Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13117
-#EXTINF:-1,Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13118
-#EXTINF:-1,Warner Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/13119
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14000
-#EXTINF:-1,HBO FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14001
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14002
-#EXTINF:-1,HBO HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14003
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14004
-#EXTINF:-1,HBO SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14005
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14006
-#EXTINF:-1,HBO 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14007
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14008
-#EXTINF:-1,HBO 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14009
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14010
-#EXTINF:-1,HBO 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14011
-#EXTINF:-1,HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14012
-#EXTINF:-1,HBO Family FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14013
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14014
-#EXTINF:-1,HBO Family HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14015
-#EXTINF:-1,HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14016
-#EXTINF:-1,HBO Family SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14017
-#EXTINF:-1,HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14018
-#EXTINF:-1,HBO Mundi FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14019
-#EXTINF:-1,HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14020
-#EXTINF:-1,HBO Mundi HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14021
-#EXTINF:-1,HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14022
-#EXTINF:-1,HBO Mundi SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14023
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14024
-#EXTINF:-1,HBO Plus FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14025
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14026
-#EXTINF:-1,HBO Plus HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14027
-#EXTINF:-1,HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14028
-#EXTINF:-1,HBO Plus SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14029
-#EXTINF:-1,HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14030
-#EXTINF:-1,HBO Pop FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14031
-#EXTINF:-1,HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14032
-#EXTINF:-1,HBO Pop HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14033
-#EXTINF:-1,HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14034
-#EXTINF:-1,HBO Pop SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14035
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14036
-#EXTINF:-1,HBO Signature FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14037
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14038
-#EXTINF:-1,HBO Signature HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14039
-#EXTINF:-1,HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14040
-#EXTINF:-1,HBO Signature SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14041
-#EXTINF:-1,HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14042
-#EXTINF:-1,HBO Xtreme FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14043
-#EXTINF:-1,HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14044
-#EXTINF:-1,HBO Xtreme HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14045
-#EXTINF:-1,HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14046
-#EXTINF:-1,HBO Xtreme SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/14047
-#EXTINF:-1,Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15000
-#EXTINF:-1,Telecine Action FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15001
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15002
-#EXTINF:-1,Telecine Action HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15003
-#EXTINF:-1,Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15004
-#EXTINF:-1,Telecine Action SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15005
-#EXTINF:-1,Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15006
-#EXTINF:-1,Telecine Cult FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15007
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15008
-#EXTINF:-1,Telecine Cult HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15009
-#EXTINF:-1,Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15010
-#EXTINF:-1,Telecine Cult SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15011
-#EXTINF:-1,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15012
-#EXTINF:-1,Telecine Fun FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15013
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15014
-#EXTINF:-1,Telecine Fun HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15015
-#EXTINF:-1,Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15016
-#EXTINF:-1,Telecine Fun SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15017
-#EXTINF:-1,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15018
-#EXTINF:-1,Telecine Pipoca FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15019
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15020
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15021
-#EXTINF:-1,Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15022
-#EXTINF:-1,Telecine Pipoca SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15023
-#EXTINF:-1,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15024
-#EXTINF:-1,Telecine Premium FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15025
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15026
-#EXTINF:-1,Telecine Premium HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15027
-#EXTINF:-1,Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15028
-#EXTINF:-1,Telecine Premium SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15029
-#EXTINF:-1,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15030
-#EXTINF:-1,Telecine Touch FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15031
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15032
-#EXTINF:-1,Telecine Touch HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15033
-#EXTINF:-1,Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15034
-#EXTINF:-1,Telecine Touch SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/15035
-#EXTINF:-1,Cine SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16000
-#EXTINF:-1,Cine SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16001
-#EXTINF:-1,Cine SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16002
-#EXTINF:-1,Cine SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16003
-#EXTINF:-1,Cine SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16004
-#EXTINF:-1,Cine SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16005
-#EXTINF:-1,Cine SKY 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16006
-#EXTINF:-1,Cine SKY 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16007
-#EXTINF:-1,Cine SKY 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16008
-#EXTINF:-1,Cine SKY 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/16009
-#EXTINF:-1,Band FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17000
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17001
-#EXTINF:-1,Band SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17002
-#EXTINF:-1,Cultura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17003
-#EXTINF:-1,Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17004
-#EXTINF:-1,Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17005
-#EXTINF:-1,Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17006
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17007
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17008
-#EXTINF:-1,Record TV SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17009
-#EXTINF:-1,Record TV SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17010
-#EXTINF:-1,Record TV SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17011
-#EXTINF:-1,Record TV Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17012
-#EXTINF:-1,Record TV Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17013
-#EXTINF:-1,Record TV Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17014
-#EXTINF:-1,Record TV Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17015
-#EXTINF:-1,Record TV Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17016
-#EXTINF:-1,Record TV Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17017
-#EXTINF:-1,Record TV RS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17018
-#EXTINF:-1,Record TV RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17019
-#EXTINF:-1,Record TV RS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17020
-#EXTINF:-1,Record TV Itapon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17021
-#EXTINF:-1,Record TV Itapon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17022
-#EXTINF:-1,Record TV Itapon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17023
-#EXTINF:-1,Record TV Brasilia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17024
-#EXTINF:-1,Record TV Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17025
-#EXTINF:-1,Record TV Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17026
-#EXTINF:-1,Record TV Goias FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17027
-#EXTINF:-1,Record TV Goias HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17028
-#EXTINF:-1,Record TV Goias SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17029
-#EXTINF:-1,Record TV Belém FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17030
-#EXTINF:-1,Record TV Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17031
-#EXTINF:-1,Record TV Belém SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17032
-#EXTINF:-1,Record TV Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17033
-#EXTINF:-1,Record TV Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17034
-#EXTINF:-1,Record TV Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17035
-#EXTINF:-1,RedeTV! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17036
-#EXTINF:-1,RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17037
-#EXTINF:-1,RedeTV! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17038
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17039
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17040
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17041
-#EXTINF:-1,TV Diario
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17042
-#EXTINF:-1,RBTV - Rede Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/17043
-#EXTINF:-1,﻿﻿EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18000
-#EXTINF:-1,EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18001
-#EXTINF:-1,EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18002
-#EXTINF:-1,EPTV Ribeirão FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18003
-#EXTINF:-1,EPTV Ribeirão HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18004
-#EXTINF:-1,EPTV Ribeirão SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18005
-#EXTINF:-1,Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18006
-#EXTINF:-1,Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18007
-#EXTINF:-1,Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18008
-#EXTINF:-1,Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18009
-#EXTINF:-1,Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18010
-#EXTINF:-1,Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18011
-#EXTINF:-1,Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18012
-#EXTINF:-1,Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18013
-#EXTINF:-1,Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18014
-#EXTINF:-1,Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18015
-#EXTINF:-1,Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18016
-#EXTINF:-1,Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18017
-#EXTINF:-1,Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18018
-#EXTINF:-1,Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18019
-#EXTINF:-1,Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18020
-#EXTINF:-1,RBS TV Florianópolis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18021
-#EXTINF:-1,RBS TV Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18022
-#EXTINF:-1,RBS TV Florianópolis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18023
-#EXTINF:-1,RBS TV Porto Alegre FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18024
-#EXTINF:-1,RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18025
-#EXTINF:-1,RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18026
-#EXTINF:-1,Rede Amazônica Boa Vista FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18027
-#EXTINF:-1,Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18028
-#EXTINF:-1,Rede Amazônica Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18029
-#EXTINF:-1,Rede Amazônica Macapá FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18030
-#EXTINF:-1,Rede Amazônica Macapá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18031
-#EXTINF:-1,Rede Amazônica Macapá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18032
-#EXTINF:-1,Rede Amazônica Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18033
-#EXTINF:-1,Rede Amazônica Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18034
-#EXTINF:-1,Rede Amazônica Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18035
-#EXTINF:-1,Rede Amazônica Porto Velho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18036
-#EXTINF:-1,Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18037
-#EXTINF:-1,Rede Amazônica Porto Velho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18038
-#EXTINF:-1,Rede Amazônica Rio Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18039
-#EXTINF:-1,Rede Amazônica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18040
-#EXTINF:-1,Rede Amazônica Rio Branco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18041
-#EXTINF:-1,RPC Curitiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18042
-#EXTINF:-1,RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18043
-#EXTINF:-1,RPC Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18044
-#EXTINF:-1,TV Anhanguera Goiânia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18045
-#EXTINF:-1,TV Anhanguera Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18046
-#EXTINF:-1,TV Anhanguera Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18047
-#EXTINF:-1,TV Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18048
-#EXTINF:-1,TV Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18049
-#EXTINF:-1,TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18050
-#EXTINF:-1,TV Fronteira FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18051
-#EXTINF:-1,TV Fronteira HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18052
-#EXTINF:-1,TV Fronteira SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18053
-#EXTINF:-1,TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18054
-#EXTINF:-1,TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18055
-#EXTINF:-1,TV Gazeta SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18056
-#EXTINF:-1,TV Globo Brasília FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18057
-#EXTINF:-1,TV Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18058
-#EXTINF:-1,TV Globo Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18059
-#EXTINF:-1,TV Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18060
-#EXTINF:-1,TV Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18061
-#EXTINF:-1,TV Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18062
-#EXTINF:-1,TV Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18063
-#EXTINF:-1,TV Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18064
-#EXTINF:-1,TV Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18065
-#EXTINF:-1,TV Globo Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18066
-#EXTINF:-1,TV Globo Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18067
-#EXTINF:-1,TV Globo Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18068
-#EXTINF:-1,TV Globo São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18069
-#EXTINF:-1,TV Globo São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18070
-#EXTINF:-1,TV Globo São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18071
-#EXTINF:-1,TV Integração Uberlândia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18072
-#EXTINF:-1,TV Integração Uberlândia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18073
-#EXTINF:-1,TV Integração Uberlândia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18074
-#EXTINF:-1,TV Liberal Belém FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18075
-#EXTINF:-1,TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18076
-#EXTINF:-1,TV Liberal Belém SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18077
-#EXTINF:-1,TV Mirante Cocais FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18078
-#EXTINF:-1,TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18079
-#EXTINF:-1,TV Mirante Cocais SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18080
-#EXTINF:-1,TV Mirante Imperatriz FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18081
-#EXTINF:-1,TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18082
-#EXTINF:-1,TV Mirante Imperatriz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18083
-#EXTINF:-1,TV Mirante São Luiz FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18084
-#EXTINF:-1,TV Mirante São Luiz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18085
-#EXTINF:-1,TV Mirante São Luiz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18086
-#EXTINF:-1,TV Morena Campo Grande FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18087
-#EXTINF:-1,TV Morena Campo Grande HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18088
-#EXTINF:-1,TV Morena Campo Grande SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18089
-#EXTINF:-1,TV TEM Bauru FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18090
-#EXTINF:-1,TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18091
-#EXTINF:-1,TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18092
-#EXTINF:-1,TV TEM Itapetininga FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18093
-#EXTINF:-1,TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18094
-#EXTINF:-1,TV TEM Itapetininga SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18095
-#EXTINF:-1,TV TEM São José do Rio Preto FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18096
-#EXTINF:-1,TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18097
-#EXTINF:-1,TV TEM São José do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18098
-#EXTINF:-1,TV TEM Sorocaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18099
-#EXTINF:-1,TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18100
-#EXTINF:-1,TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18101
-#EXTINF:-1,TV Tribuna FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18102
-#EXTINF:-1,TV Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18103
-#EXTINF:-1,TV Tribuna SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18104
-#EXTINF:-1,TV Verdes Mares Cariri FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18105
-#EXTINF:-1,TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18106
-#EXTINF:-1,TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18107
-#EXTINF:-1,TV Verdes Mares Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18108
-#EXTINF:-1,TV Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18109
-#EXTINF:-1,TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18110
-#EXTINF:-1,Vanguarda São José dos Campos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18111
-#EXTINF:-1,Vanguarda São José dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18112
-#EXTINF:-1,Vanguarda São José dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18113
-#EXTINF:-1,Vanguarda Taubaté FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18114
-#EXTINF:-1,Vanguarda Taubaté HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18115
-#EXTINF:-1,Vanguarda Taubaté SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18116
-#EXTINF:-1,EPTV Sul de Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18117
-#EXTINF:-1,EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18118
-#EXTINF:-1,EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18119
-#EXTINF:-1,Inter TV Planície FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18120
-#EXTINF:-1,Inter TV Planície HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18121
-#EXTINF:-1,Inter TV Planície SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18122
-#EXTINF:-1,EPTV Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18123
-#EXTINF:-1,EPTV Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18124
-#EXTINF:-1,EPTV Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18125
-#EXTINF:-1,TV Centro-américa Cuiabá FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18126
-#EXTINF:-1,TV Centro-américa Cuiabá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18127
-#EXTINF:-1,TV Centro-américa Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18128
-#EXTINF:-1,Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18129
-#EXTINF:-1,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18130
-#EXTINF:-1,Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18131
-#EXTINF:-1,TV Clube FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18132
-#EXTINF:-1,TV Clube HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18133
-#EXTINF:-1,TV Clube SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/18134
-#EXTINF:-1,Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19000
-#EXTINF:-1,Band Sports FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19001
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19002
-#EXTINF:-1,Band Sports HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19003
-#EXTINF:-1,Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19004
-#EXTINF:-1,Band Sports SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19005
-#EXTINF:-1,Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19006
-#EXTINF:-1,Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19007
-#EXTINF:-1,Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19008
-#EXTINF:-1,Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19009
-#EXTINF:-1,Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19010
-#EXTINF:-1,Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19011
-#EXTINF:-1,Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19012
-#EXTINF:-1,Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19013
-#EXTINF:-1,Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19014
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19015
-#EXTINF:-1,Combate FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19016
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19017
-#EXTINF:-1,Combate HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19018
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19019
-#EXTINF:-1,Combate SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19020
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19021
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19022
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19023
-#EXTINF:-1,Copa do Brasil 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19024
-#EXTINF:-1,Copa do Brasil 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19025
-#EXTINF:-1,Copa do Brasil 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19026
-#EXTINF:-1,Fox Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19027
-#EXTINF:-1,Fox Sports FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19028
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19029
-#EXTINF:-1,Fox Sports HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19030
-#EXTINF:-1,Fox Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19031
-#EXTINF:-1,Fox Sports SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19032
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19033
-#EXTINF:-1,Fox Sports 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19034
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19035
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19036
-#EXTINF:-1,Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19037
-#EXTINF:-1,Fox Sports 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19038
-#EXTINF:-1,Conmebol TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19039
-#EXTINF:-1,Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19040
-#EXTINF:-1,Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19041
-#EXTINF:-1,NBA 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19042
-#EXTINF:-1,NBA 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19043
-#EXTINF:-1,NBA 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19044
-#EXTINF:-1,STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19045
-#EXTINF:-1,STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19046
-#EXTINF:-1,STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19047
-#EXTINF:-1,Campeonato Carioca 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19048
-#EXTINF:-1,Campeonato Carioca 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19049
-#EXTINF:-1,Campeonato Carioca 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19050
-#EXTINF:-1,Copa do Nordeste 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19051
-#EXTINF:-1,Copa do Nordeste 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19052
-#EXTINF:-1,Copa do Nordeste 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19053
-#EXTINF:-1,HBO MAX 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19054
-#EXTINF:-1,HBO MAX 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19055
-#EXTINF:-1,HBO MAX 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19056
-#EXTINF:-1,HBO MAX 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19057
-#EXTINF:-1,HBO MAX 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/19058
-#EXTINF:-1,﻿Premiere 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20000
-#EXTINF:-1,Premiere 1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20001
-#EXTINF:-1,Premiere 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20002
-#EXTINF:-1,Premiere 1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20003
-#EXTINF:-1,Premiere 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20004
-#EXTINF:-1,Premiere 1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20005
-#EXTINF:-1,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20006
-#EXTINF:-1,Premiere 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20007
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20008
-#EXTINF:-1,Premiere 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20009
-#EXTINF:-1,Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20010
-#EXTINF:-1,Premiere 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20011
-#EXTINF:-1,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20012
-#EXTINF:-1,Premiere 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20013
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20014
-#EXTINF:-1,Premiere 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20015
-#EXTINF:-1,Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20016
-#EXTINF:-1,Premiere 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20017
-#EXTINF:-1,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20018
-#EXTINF:-1,Premiere 4 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20019
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20020
-#EXTINF:-1,Premiere 4 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20021
-#EXTINF:-1,Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20022
-#EXTINF:-1,Premiere 4 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20023
-#EXTINF:-1,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20024
-#EXTINF:-1,Premiere 5 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20025
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20026
-#EXTINF:-1,Premiere 5 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20027
-#EXTINF:-1,Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20028
-#EXTINF:-1,Premiere 5 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20029
-#EXTINF:-1,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20030
-#EXTINF:-1,Premiere 6 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20031
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20032
-#EXTINF:-1,Premiere 6 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20033
-#EXTINF:-1,Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20034
-#EXTINF:-1,Premiere 6 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20035
-#EXTINF:-1,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20036
-#EXTINF:-1,Premiere 7 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20037
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20038
-#EXTINF:-1,Premiere 7 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20039
-#EXTINF:-1,Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20040
-#EXTINF:-1,Premiere 7 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20041
-#EXTINF:-1,Premiere 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20042
-#EXTINF:-1,Premiere 8 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20043
-#EXTINF:-1,Premiere 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20044
-#EXTINF:-1,Premiere 8 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20045
-#EXTINF:-1,Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20046
-#EXTINF:-1,Premiere 8 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/20047
-#EXTINF:-1,SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21000
-#EXTINF:-1,SporTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21001
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21002
-#EXTINF:-1,SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21003
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21004
-#EXTINF:-1,SporTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21005
-#EXTINF:-1,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21006
-#EXTINF:-1,SporTV 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21007
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21008
-#EXTINF:-1,SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21009
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21010
-#EXTINF:-1,SporTV 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21011
-#EXTINF:-1,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21012
-#EXTINF:-1,SporTV 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21013
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21014
-#EXTINF:-1,SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21015
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21016
-#EXTINF:-1,SporTV 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/21017
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22000
-#EXTINF:-1,ESPN FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22001
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22002
-#EXTINF:-1,ESPN HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22003
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22004
-#EXTINF:-1,ESPN SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22005
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22006
-#EXTINF:-1,ESPN 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22007
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22008
-#EXTINF:-1,ESPN 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22009
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22010
-#EXTINF:-1,ESPN 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22011
-#EXTINF:-1,ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22012
-#EXTINF:-1,ESPN 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22013
-#EXTINF:-1,ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22014
-#EXTINF:-1,ESPN 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22015
-#EXTINF:-1,ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22016
-#EXTINF:-1,ESPN 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22017
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22018
-#EXTINF:-1,ESPN Extra FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22019
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22020
-#EXTINF:-1,ESPN Extra HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22021
-#EXTINF:-1,ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22022
-#EXTINF:-1,ESPN Extra SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/22023
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23000
-#EXTINF:-1,Animal Planet FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23001
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23002
-#EXTINF:-1,Animal Planet HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23003
-#EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23004
-#EXTINF:-1,Animal Planet SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23005
-#EXTINF:-1,Arte1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23006
-#EXTINF:-1,Arte1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23007
-#EXTINF:-1,Arte1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23008
-#EXTINF:-1,Arte1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23009
-#EXTINF:-1,Arte1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23010
-#EXTINF:-1,Arte1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23011
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23012
-#EXTINF:-1,Curta! FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23013
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23014
-#EXTINF:-1,Curta! HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23015
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23016
-#EXTINF:-1,Curta! SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23017
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23018
-#EXTINF:-1,Discovery Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23019
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23020
-#EXTINF:-1,Discovery Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23021
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23022
-#EXTINF:-1,Discovery Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23023
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23024
-#EXTINF:-1,Discovery Science FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23025
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23026
-#EXTINF:-1,Discovery Science HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23027
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23028
-#EXTINF:-1,Discovery Science SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23029
-#EXTINF:-1,Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23030
-#EXTINF:-1,Discovery Theater FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23031
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23032
-#EXTINF:-1,Discovery Theater HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23033
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23034
-#EXTINF:-1,Discovery Theater SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23035
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23036
-#EXTINF:-1,Discovery World FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23037
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23038
-#EXTINF:-1,Discovery World HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23039
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23040
-#EXTINF:-1,Discovery World SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23041
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23042
-#EXTINF:-1,H2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23043
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23044
-#EXTINF:-1,H2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23045
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23046
-#EXTINF:-1,H2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23047
-#EXTINF:-1,HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23048
-#EXTINF:-1,HGTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23049
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23050
-#EXTINF:-1,HGTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23051
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23052
-#EXTINF:-1,HGTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23053
-#EXTINF:-1,History FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23054
-#EXTINF:-1,History FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23055
-#EXTINF:-1,History HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23056
-#EXTINF:-1,History HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23057
-#EXTINF:-1,History SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23058
-#EXTINF:-1,History SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23059
-#EXTINF:-1,ID: Investigação Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23060
-#EXTINF:-1,ID: Investigação Discovery FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23061
-#EXTINF:-1,ID: Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23062
-#EXTINF:-1,ID: Investigação Discovery HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23063
-#EXTINF:-1,ID: Investigação Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23064
-#EXTINF:-1,ID: Investigação Discovery SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23065
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23066
-#EXTINF:-1,National Geographic FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23067
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23068
-#EXTINF:-1,National Geographic HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23069
-#EXTINF:-1,National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23070
-#EXTINF:-1,National Geographic SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/23071
-#EXTINF:-1,BabyTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24000
-#EXTINF:-1,BabyTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24001
-#EXTINF:-1,BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24002
-#EXTINF:-1,BabyTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24003
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24004
-#EXTINF:-1,BabyTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24005
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24006
-#EXTINF:-1,Boomerang FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24007
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24008
-#EXTINF:-1,Boomerang HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24009
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24010
-#EXTINF:-1,Boomerang SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24011
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24012
-#EXTINF:-1,Cartoon Network FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24013
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24014
-#EXTINF:-1,Cartoon Network HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24015
-#EXTINF:-1,Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24016
-#EXTINF:-1,Cartoon Network SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24017
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24018
-#EXTINF:-1,Discovery Kids FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24019
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24020
-#EXTINF:-1,Discovery Kids HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24021
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24022
-#EXTINF:-1,Discovery Kids SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24023
-#EXTINF:-1,Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24024
-#EXTINF:-1,Disney Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24025
-#EXTINF:-1,Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24026
-#EXTINF:-1,Disney Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24027
-#EXTINF:-1,Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24028
-#EXTINF:-1,Disney Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24029
-#EXTINF:-1,Gloob FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24042
-#EXTINF:-1,Gloob FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24043
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24044
-#EXTINF:-1,Gloob HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24045
-#EXTINF:-1,Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24046
-#EXTINF:-1,Gloob SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24047
-#EXTINF:-1,Nick Jr FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24054
-#EXTINF:-1,Nick Jr FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24055
-#EXTINF:-1,Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24056
-#EXTINF:-1,Nick Jr HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24057
-#EXTINF:-1,Nick Jr SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24058
-#EXTINF:-1,Nick Jr SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24059
-#EXTINF:-1,Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24060
-#EXTINF:-1,Nickelodeon FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24061
-#EXTINF:-1,Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24062
-#EXTINF:-1,Nickelodeon HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24063
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24064
-#EXTINF:-1,Nickelodeon SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24065
-#EXTINF:-1,Tooncast FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24066
-#EXTINF:-1,Tooncast FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24067
-#EXTINF:-1,Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24068
-#EXTINF:-1,Tooncast HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24069
-#EXTINF:-1,Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24070
-#EXTINF:-1,Tooncast SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24071
-#EXTINF:-1,TV Ra Tim Bum FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24072
-#EXTINF:-1,TV Ra Tim Bum FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24073
-#EXTINF:-1,TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24074
-#EXTINF:-1,TV Ra Tim Bum HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24075
-#EXTINF:-1,TV Ra Tim Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24076
-#EXTINF:-1,TV Ra Tim Bum SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24077
-#EXTINF:-1,ZooMoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24078
-#EXTINF:-1,ZooMoo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24079
-#EXTINF:-1,ZooMoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24080
-#EXTINF:-1,ZooMoo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24081
-#EXTINF:-1,ZooMoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24082
-#EXTINF:-1,ZooMoo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/24083
-#EXTINF:-1,Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25000
-#EXTINF:-1,Band News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25001
-#EXTINF:-1,Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25002
-#EXTINF:-1,Band News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25003
-#EXTINF:-1,Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25004
-#EXTINF:-1,Band News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25005
-#EXTINF:-1,CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25006
-#EXTINF:-1,CNN Brasil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25007
-#EXTINF:-1,CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25008
-#EXTINF:-1,CNN Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25009
-#EXTINF:-1,CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25010
-#EXTINF:-1,CNN Brasil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25011
-#EXTINF:-1,Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25012
-#EXTINF:-1,Globo News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25013
-#EXTINF:-1,Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25014
-#EXTINF:-1,Globo News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25015
-#EXTINF:-1,Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25016
-#EXTINF:-1,Globo News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25017
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25018
-#EXTINF:-1,Record News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25019
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25020
-#EXTINF:-1,Record News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25021
-#EXTINF:-1,Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25022
-#EXTINF:-1,Record News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25023
-#EXTINF:-1,Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25024
-#EXTINF:-1,Jovem Pan News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25025
-#EXTINF:-1,Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25026
-#EXTINF:-1,Jovem Pan News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25027
-#EXTINF:-1,Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25028
-#EXTINF:-1,Jovem Pan News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/25029
-#EXTINF:-1,Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26000
-#EXTINF:-1,Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26001
-#EXTINF:-1,Rede Familia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26002
-#EXTINF:-1,Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26003
-#EXTINF:-1,Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26004
-#EXTINF:-1,Rede CNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26005
-#EXTINF:-1,TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26006
-#EXTINF:-1,TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26007
-#EXTINF:-1,TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/26008
-#EXTINF:-1,24H Apenas um Show
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27000
-#EXTINF:-1,24H Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27001
-#EXTINF:-1,24H Chaves
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27002
-#EXTINF:-1,24H Eu a patroa e as crianças
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27003
-#EXTINF:-1,24H Largados e Pelados
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27004
-#EXTINF:-1,24H O Incrivel Mundo de Gumball
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27005
-#EXTINF:-1,24H Os Simpsons
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27006
-#EXTINF:-1,24H Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27007
-#EXTINF:-1,24H Big Mouth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27008
-#EXTINF:-1,24H Coragem o Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27009
-#EXTINF:-1,24H Futurama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27010
-#EXTINF:-1,24H Rick e Morty
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27011
-#EXTINF:-1,24H Hora de Aventura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27012
-#EXTINF:-1,24H Os Jovens Titãs em Ação
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27013
-#EXTINF:-1,24H Bob's Burger
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27014
-#EXTINF:-1,24H Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27015
-#EXTINF:-1,24H Pantena Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://hubby.fun:80/layane/layane123/27016
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
+https://www.youtube.com/channel/UCojJ
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/855992
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/855994
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/855996
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/855998
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856000
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856002
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856004
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856006
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856008
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856010
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856012
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856014
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856016
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856018
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856020
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856022
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856024
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856026
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856038
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856040
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856042
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856045
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856047
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856049
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856051
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856053
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856055
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856057
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856059
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856062
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856064
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856066
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856068
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856077
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856078
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856079
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856080
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856081
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856082
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856083
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856085
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856087
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856090
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856094
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856096
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS FILMES",Star Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856100
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856113
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856115
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856117
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856119
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856121
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856123
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856125
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856127
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856133
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856135
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856137
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856140
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856146
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856148
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856154
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856161
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856163
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856165
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856167
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856169
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856172
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856174
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856177
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856179
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856182
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856184
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856187
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856189
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856191
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856230
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856232
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856234
+#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856236
+#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856238
+#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856240
+#EXTINF:-1 tvg-id="Sportv 3 HD" tvg-name="SPORTV 3 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856242
+#EXTINF:-1 tvg-id="Sportv 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856244
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856247
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856249
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856251
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856253
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856255
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856257
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856259
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856261
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856263
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856265
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856267
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856270
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856272
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856276
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856279
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856283
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856285
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856287
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856290
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856293
+#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856295
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856298
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856300
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856303
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856305
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856313
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856315
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856317
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856319
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856321
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856323
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856325
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856327
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856329
+#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856332
+#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856334
+#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856339
+#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856341
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856345
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856347
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856349
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856351
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856353
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856355
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856356
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856357
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="CANAIS GLOBO",GLOBO AMAZÔNICA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856358
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856362
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856364
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856370
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856372
+#EXTINF:-1 tvg-id="TV Centro América Cuiabá" tvg-name="GLOBO CUiABÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="CANAIS GLOBO",GLOBO CUiABÁ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856375
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856376
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856378
+#EXTINF:-1 tvg-id="EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856381
+#EXTINF:-1 tvg-id="EPTV São Carlos" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV SÃO CARLOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856383
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856384
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856385
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia HD" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856386
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856387
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856388
+#EXTINF:-1 tvg-id="Globo HD Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856390
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/1280px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856393
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/1280px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856395
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/1280px-GloboNews_logo.svg.png" group-title="NOTICIAS",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856397
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856403
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856406
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856407
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856408
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RBS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856412
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="CANAIS GLOBO",GLOBO RBS TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856413
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856417
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856419
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856421
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856423
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO SP SDD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856426
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856428
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856431
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856433
+#EXTINF:-1 tvg-id="TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856434
+#EXTINF:-1 tvg-id="Rádio Globo RJ" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856436
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM SJRP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856438
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856439
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856440
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SJC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856441
+#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856456
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856483
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856485
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856488
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856490
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856492
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856503
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856507
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856509
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856515
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BH HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856519
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD DF HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856521
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856522
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SP HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856523
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856524
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDETV!" tvg-logo="http://imguol.com/blogs/31/files/2015/12/redetv1.png" group-title="CANAIS ABERTOS",REDETV!
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856525
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png" group-title="CANAIS ABERTOS",RIT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856526
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856527
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856529
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856533
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD MINAS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856537
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856541
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856554
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856555
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856580
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856582
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856585
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856587
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856590
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856592
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856595
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856597
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856609
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856611
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856620
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856622
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856625
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856627
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856631
+#EXTINF:-1 tvg-id="TV Rá Tim Bum HD" tvg-name="TV RÁ-TIM-BUM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png" group-title="CANAIS INFANTIL",TV RÁ-TIM-BUM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856635
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIL",ZOOMOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856639
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856640
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856642
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="BIS FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856644
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="CANAL BRASIL HD" tvg-logo="https://pt.wikipedia.org/wiki/Canal_Brasil#/media/Ficheiro:CanalBrasil_logos_700px_0-03.png" group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856652
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856653
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856654
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856655
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856656
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856657
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856659
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856661
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856663
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856665
+#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="FISH TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS ENTRETENIMENTO",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856669
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856672
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856674
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856676
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="STAR LIFE SD" tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CANAIS ENTRETENIMENTO",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856678
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="STAR LIFE HD" tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CANAIS ENTRETENIMENTO",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856680
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="STAR LIFE FHD" tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="CANAIS ENTRETENIMENTO",STAR LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856682
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ENTRETENIMENTO",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856684
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856685
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856687
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="CANAIS ENTRETENIMENTO",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856689
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856691
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856693
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856696
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856698
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856701
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856703
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856706
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856709
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS ENTRETENIMENTO",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856714
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS ENTRETENIMENTO",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856716
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856732
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856734
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856736
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856738
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856741
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856743
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="CANAIS GLOBO",TV CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856807
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",TV CABO BRANCO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856808
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856823
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856824
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856825
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856826
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO HD ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856827
+#EXTINF:-1 tvg-id="Pai Eterno HD" tvg-name="PAI ETERNO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU" group-title="RELIGIÃO",PAI ETERNO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856828
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIÃO",REDE VIDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856829
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856830
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856831
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856832
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO",TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856833
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",TV NOVO TEMPO  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856834
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/856845
+#EXTINF:-1 tvg-id="" tvg-name="Religioso 1" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",Religioso 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925549
+#EXTINF:-1 tvg-id="" tvg-name="religioso 2" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",religioso 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925550
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="ESPORTE",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925553
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="ESPORTE",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925555
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="ESPN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTE",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925558
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTE",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925560
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925563
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925565
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="PN EXTRA HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/espnextra.png" group-title="ESPORTE",PN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925569
+#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="ESPN 4 SD" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="ESPORTE",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925572
+#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="ESPN 4 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="ESPORTE",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925574
+#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="ESPN 4 FHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="ESPORTE",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925576
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925578
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925580
+#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/925583
+#EXTINF:-1 tvg-id="" tvg-name="24hs 101 Dálmatas" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs 101 Dálmatas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931296
+#EXTINF:-1 tvg-id="" tvg-name="24hs 3 Palavrinhas" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931297
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Formiga Atômica" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs A Formiga Atômica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931299
+#EXTINF:-1 tvg-id="" tvg-name="24hs A GRANDE FAMILIA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A GRANDE FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931300
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Mansão Foster Para Amigos Imaginários" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Mansão Foster Para Amigos Imaginários
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931301
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Pantera Cor de Rosa" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931302
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Patrulha Canina" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931303
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Vaca e o Frango" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931304
+#EXTINF:-1 tvg-id="" tvg-name="24hs Aladdin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Aladdin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931305
+#EXTINF:-1 tvg-id="" tvg-name="24hs Animaniacs" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Animaniacs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931306
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Aventuras de Tintin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Aventuras de Tintin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931307
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Meninas Super Poderosas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Meninas Super Poderosas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931308
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Visões de Raven" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Visões de Raven
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931310
+#EXTINF:-1 tvg-id="" tvg-name="24hs AUTHENTIC GAMES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs AUTHENTIC GAMES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931311
+#EXTINF:-1 tvg-id="" tvg-name="24hs Avatar a Lenda de Aang" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Avatar a Lenda de Aang
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931312
+#EXTINF:-1 tvg-id="" tvg-name="24hs Baby Looney Tunes" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931313
+#EXTINF:-1 tvg-id="" tvg-name="24hs BACKARDIGANS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BACKARDIGANS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931314
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931315
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10 Omniverse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10 Omniverse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931316
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Esponja" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931318
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O CONSTRUTOR" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O CONSTRUTOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931319
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O TREM" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O TREM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931320
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Zoom" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Zoom
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931321
+#EXTINF:-1 tvg-id="" tvg-name="24hs Boku no Hero Academia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Boku no Hero Academia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931322
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOOBA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOOBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931323
+#EXTINF:-1 tvg-id="" tvg-name="24hs Brooklyn Nine-Nine" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Brooklyn Nine-Nine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931325
+#EXTINF:-1 tvg-id="" tvg-name="24hs Cadillacs e Dinossauros" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Cadillacs e Dinossauros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931326
+#EXTINF:-1 tvg-id="" tvg-name="24hs CAILLOU" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CAILLOU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931327
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chapolin Colorado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931333
+#EXTINF:-1 tvg-id="" tvg-name="24hs CHAVES do 8" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CHAVES do 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931334
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chaves em desenho animado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chaves em desenho animado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931335
+#EXTINF:-1 tvg-id="" tvg-name="24hs Como Eu Conheci Sua Mãe" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Como Eu Conheci Sua Mãe
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931336
+#EXTINF:-1 tvg-id="" tvg-name="24hs CORAGEM, O CÃO COVARDE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CORAGEM, O CÃO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931337
+#EXTINF:-1 tvg-id="" tvg-name="24hs Corrida Maluca" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Corrida Maluca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931338
+#EXTINF:-1 tvg-id="" tvg-name="24hs CUT THE HOPE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CUT THE HOPE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931339
+#EXTINF:-1 tvg-id="" tvg-name="24hs De Volta para o Futuro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs De Volta para o Futuro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931340
+#EXTINF:-1 tvg-id="" tvg-name="24hs Detetives do Prédio Azul" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Detetives do Prédio Azul
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931341
+#EXTINF:-1 tvg-id="" tvg-name="24hs DIGIMON" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931342
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dora a Aventureira" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dora a Aventureira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931343
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dragon Ball Super" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931344
+#EXTINF:-1 tvg-id="" tvg-name="24hs Drake & Josh" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Drake & Josh
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931345
+#EXTINF:-1 tvg-id="" tvg-name="24hs Du, Dudu e Edu" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Du, Dudu e Edu
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931346
+#EXTINF:-1 tvg-id="" tvg-name="24hs Duck Dodgers" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Duck Dodgers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931347
+#EXTINF:-1 tvg-id="" tvg-name="24hs EU A PATROA E AS CRIANÇAS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931349
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931350
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash Gordon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash Gordon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931351
+#EXTINF:-1 tvg-id="" tvg-name="24hs FLINTSTONES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931352
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fly o pequeno guerreiro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Fly o pequeno guerreiro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931353
+#EXTINF:-1 tvg-id="" tvg-name="24hs Freakazoid!" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Freakazoid!
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931354
+#EXTINF:-1 tvg-id="" tvg-name="24hs FullMetal Alchemist" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FullMetal Alchemist
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931355
+#EXTINF:-1 tvg-id="" tvg-name="24hs Homem Aranha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Homem Aranha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931358
+#EXTINF:-1 tvg-id="" tvg-name="24hs Hércules" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Hércules
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931360
+#EXTINF:-1 tvg-id="" tvg-name="24hs Jackie Chan e Amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Jackie Chan e Amigos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931361
+#EXTINF:-1 tvg-id="" tvg-name="24hs KENAN E KEL" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs KENAN E KEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931362
+#EXTINF:-1 tvg-id="" tvg-name="24hs Little Angel" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Little Angel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931363
+#EXTINF:-1 tvg-id="" tvg-name="24hs Medabots" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Medabots
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931364
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mega Man" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mega Man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931365
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mickey Mouse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931367
+#EXTINF:-1 tvg-id="" tvg-name="24hs Miraculous Ladybug" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Miraculous Ladybug
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931368
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mortal Kombat" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mortal Kombat
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931369
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mucha Lucha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mucha Lucha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931371
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mundo Bita" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mundo Bita
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931372
+#EXTINF:-1 tvg-id="" tvg-name="24hs Naruto" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Naruto
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931373
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Laboratório de Dexter" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Laboratório de Dexter
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931376
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Mundo de Beakman" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Mundo de Beakman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931377
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Máskara" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Máskara
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931378
+#EXTINF:-1 tvg-id="" tvg-name="24hs os Cavaleiros do Zodíaco" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs os Cavaleiros do Zodíaco
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931379
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Flintstones" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931380
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Padrinhos Mágicos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931381
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Super Patos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Super Patos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931383
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Vingadores" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Vingadores
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931384
+#EXTINF:-1 tvg-id="" tvg-name="24hs Papa Léguas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Papa Léguas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931385
+#EXTINF:-1 tvg-id="" tvg-name="24hs Patati e Patatá" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Patati e Patatá
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931386
+#EXTINF:-1 tvg-id="" tvg-name="24hs Peppa Pig" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931387
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pernalonga e seus amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pernalonga e seus amigos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931388
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pica Pau" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931389
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pocoyo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pocoyo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931391
+#EXTINF:-1 tvg-id="" tvg-name="24hs POKEMOM MANICRAFT" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs POKEMOM MANICRAFT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931392
+#EXTINF:-1 tvg-id="" tvg-name="24hs RICK E MORTY" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs RICK E MORTY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Sailor Moon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Sailor Moon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Samurai Warriors" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Samurai Warriors
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931396
+#EXTINF:-1 tvg-id="" tvg-name="24hs SCOOBY DOO" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931397
+#EXTINF:-1 tvg-id="" tvg-name="24hs South Park" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs South Park
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931398
+#EXTINF:-1 tvg-id="" tvg-name="24hs Steven Universo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Steven Universo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931399
+#EXTINF:-1 tvg-id="" tvg-name="24hs Super Choque" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Super Choque
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931400
+#EXTINF:-1 tvg-id="" tvg-name="24hs Taz Mania" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Taz Mania
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931401
+#EXTINF:-1 tvg-id="" tvg-name="24hs Thundercats" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Thundercats
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931402
+#EXTINF:-1 tvg-id="" tvg-name="24hs Timão e Pumba" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Timão e Pumba
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931403
+#EXTINF:-1 tvg-id="" tvg-name="24hs TODO MUNDO ODEIA O CHRIS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931404
+#EXTINF:-1 tvg-id="" tvg-name="24hs TROLLS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TROLLS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931406
+#EXTINF:-1 tvg-id="" tvg-name="24hs Três Espiãs Demais" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Três Espiãs Demais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931407
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Mônica" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931408
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Pateta" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Pateta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931409
+#EXTINF:-1 tvg-id="" tvg-name="24hs Uma família da pesada" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Uma família da pesada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931410
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ursinhos Carinhosos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931411
+#EXTINF:-1 tvg-id="" tvg-name="24hs X-men" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs X-men
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931412
+#EXTINF:-1 tvg-id="" tvg-name="24hs Zé Colméia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Zé Colméia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931413
+#EXTINF:-1 tvg-id="" tvg-name="24hs Um Maluco no Pedaço" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/931415
+#EXTINF:-1 tvg-id="" tvg-name="24hs Escolinha do Professor Raimundo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953392
+#EXTINF:-1 tvg-id="" tvg-name="24hs THE WALKING DEAD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs THE WALKING DEAD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953393
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vai que Cola" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vai que Cola
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Arqueiro Verde" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Arqueiro Verde
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fate" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Fate
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953396
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vikings" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vikings
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953397
+#EXTINF:-1 tvg-id="" tvg-name="24hs Big Bang Theory" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Big Bang Theory
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/953398
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="ESPORTE",TNT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956421
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="ESPORTE",TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956422
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="ESPORTE",TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956423
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="ESPORTE",TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956424
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="ESPORTE",TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956425
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956448
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956449
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956450
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956451
+#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO VIP" tvg-logo="https://i.imgur.com/S28ccjG.png" group-title="DESENHOS 24 HORAS",24H ALF O E.TEIMOSO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956467
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM & JERRY VIP" tvg-logo="https://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png" group-title="DESENHOS 24 HORAS",24H AS AVENTURAS DE TOM & JERRY VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956471
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png" group-title="DESENHOS 24 HORAS",24H AVATAR A LENDA DE KORA H265 VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956473
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES VIP" tvg-logo="https://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png" group-title="DESENHOS 24 HORAS",24H BABY LOONEY TUNES VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956474
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="DESENHOS 24 HORAS",24H BEN 10 VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956477
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE VIP" tvg-logo="https://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png" group-title="DESENHOS 24 HORAS",24H BEN 10 OMNIVERSE VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956478
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04 VIP" tvg-logo="https://2.bp.blogspot.com/-KPWQFOwORaQ/WIiCSCxIgXI/AAAAAAAAJeA/nmRNjSGzfgUO6v7DGRDPQmdDZD5Goc6eQCLcB/s1600/logo_bob_esponja.png" group-title="DESENHOS 24 HORAS",24H BOB ESPONJA T01 A 04 VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956480
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA VIP" tvg-logo="https://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO CAVERNA VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956487
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA VIP" tvg-logo="https://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO PLANETA VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956488
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVALO DE FOGO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956490
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVERNA DO DRAGÃO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956491
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CORAGEM O CÃO COVARDE VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956497
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DIGIMON VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956502
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DRAKE & JOSH VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956517
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK DODGERS VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956518
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK TALES CLÁSSICO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956519
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H FLY O PEQUENO GUERREIRO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956521
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GALINHA PINTADINHA MINI VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956528
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GATO FELIX VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956529
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H HE-MAN VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956530
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H JASPION VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956531
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H MUNDO BITA VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956537
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H NARUTO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956538
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O INCRÍVEL MUNDO DE GUMBALL VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956540
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O SHOW DO GARFIELD VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956543
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS CAÇA FANTASMA DESENHO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956549
+#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956553
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS RONI VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956554
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PATO DONALD VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956561
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PICA- PAU VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956567
+#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PINK E O CEREBRO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956569
+#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H POPEYE VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956571
+#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SITIO DO PICA PAU AMARELO VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956578
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPER CHOQUE VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956580
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERAMIGOS VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956581
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERCAMPEÕES VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956582
+#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H TRÊS ESPIÃS DEMAIS VIP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956586
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956729
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956730
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956731
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956732
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956733
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-Ns-Ibjip2Ns/V4EvpbEmErI/AAAAAAAAndw/6kGjOnglIFwcXlU40Zd-a0a0zGcrWNYjACLcB/s1600/Sky-Movies-logo-2010.png" group-title="CANAIS CINE SKY",CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/956734
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/961715
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/961716
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO PORTO VELHO" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBO",GLOBO PORTO VELHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/961717
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBO",GLOBO RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/961722
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBO",GLOBO RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://vipeiptv.com:8080/PAULOSATU/098985043463/961723
