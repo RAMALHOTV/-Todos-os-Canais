@@ -1,1726 +1,844 @@
 
 
+
+
 #EXTM3U
 #EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 01[/B][/COLOR]
 http://canais.servidor
 
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD²" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="TV aberta ²",Band HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/7899
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO - TV ANHANGUERA ANAPOLIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="ABERTOS ²",GLOBO - TV ANHANGUERA ANAPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19161
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO - TV ANHANGUERA ANAPOLIS FULL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="ABERTOS ²",GLOBO - TV ANHANGUERA ANAPOLIS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19162
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/NatGeo.png" group-title="DOCUMENTÁRIOS ²",NatGeo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19163
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/H2.png" group-title="DOCUMENTÁRIOS ²",History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19164
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/History.png" group-title="DOCUMENTÁRIOS ²",History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19165
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-world.png" group-title="DOCUMENTÁRIOS ²",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19166
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-turbo.png" group-title="DOCUMENTÁRIOS ²",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19167
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="DOCUMENTÁRIOS ²",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19168
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-science.png" group-title="DOCUMENTÁRIOS ²",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19169
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/discovery-channel.png" group-title="DOCUMENTÁRIOS ²",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19170
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/animal-planet.png" group-title="DOCUMENTÁRIOS ²",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19171
-#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Warner.png" group-title="FILMES E SERIES ²",Warner HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19172
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Universal-tv.png" group-title="FILMES E SERIES ²",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19173
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="FILMES E SERIES ²",TNT Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19174
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT.png" group-title="FILMES E SERIES ²",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19175
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TCM.png" group-title="FILMES E SERIES ²",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19176
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TBS.png" group-title="FILMES E SERIES ²",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19177
-#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/SYFY.png" group-title="FILMES E SERIES ²",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19178
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="FILMES E SERIES ²",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19179
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/space.png" group-title="FILMES E SERIES ²",Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19180
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/paramount%20.png" group-title="FILMES E SERIES ²",Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19181
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/megapix.png" group-title="FILMES E SERIES ²",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19182
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/FX.png" group-title="FILMES E SERIES ²",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19183
-#EXTINF:-1 tvg-id="" tvg-name="Film e Arts HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/film-&-arts.png" group-title="FILMES E SERIES ²",Film e Arts HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19184
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/comedy-central.png" group-title="FILMES E SERIES ²",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19185
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/cinemax.png" group-title="FILMES E SERIES ²",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19186
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Sony.png" group-title="FILMES E SERIES ²",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19187
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AXN.png" group-title="FILMES E SERIES ²",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19188
-#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AeE.png" group-title="FILMES E SERIES ²",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19190
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo=" https://script.horizonplay.io/logos/Filmes-e-Series/amc.png" group-title="FILMES E SERIES ²",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19191
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/baby-tv.png" group-title="INFANTIS ²",Baby TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19192
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://script.horizonplay.io/logos/Infantil/cartoon-network.png" group-title="INFANTIS ²",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19193
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1661/cartoonito/showpage/ab/cartoonito-logo-min.8cbf6eca.png" group-title="INFANTIS ²",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19194
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Disney-channel.png" group-title="INFANTIS ²",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19195
-#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Gloob.png" group-title="INFANTIS ²",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19196
-#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/gloobinho.png" group-title="INFANTIS ²",Gloobinho HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19197
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nickelodeon.png" group-title="INFANTIS ²",Nick HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19198
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nick-jr.png" group-title="INFANTIS ²",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19199
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Tooncast.png" group-title="INFANTIS ²",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19200
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra-Tim-Bum HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/TV-ra-tim-bum.png" group-title="INFANTIS ²",TV Ra-Tim-Bum HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19201
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Zoomoo.png" group-title="INFANTIS ²",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19202
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Xtreme.png" group-title="HBO ²",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19203
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Xtreme.png" group-title="HBO ²",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19204
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="HBO ²",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19205
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="HBO ²",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19206
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-pop.png" group-title="HBO ²",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19207
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pop FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-pop.png" group-title="HBO ²",HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19208
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="HBO ²",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19209
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="HBO ²",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19210
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Mundi.png" group-title="HBO ²",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19211
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Mundi.png" group-title="HBO ²",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19212
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-family.png" group-title="HBO ²",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19213
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-family.png" group-title="HBO ²",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19214
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-2.png" group-title="HBO ²",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19215
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO.png" group-title="HBO ²",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19216
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19217
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19218
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19219
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19220
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19221
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19222
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19223
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19224
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19225
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CINE SKY ²",Cine Sky 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19226
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/lifetime.png" group-title="DOCUMENTÁRIOS ²",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19227
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home e Health FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/H&H.png" group-title="DOCUMENTÁRIOS ²",Discovery Home e Health FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19228
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home e Health HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/H&H.png" group-title="DOCUMENTÁRIOS ²",Discovery Home e Health HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19229
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/HGTV.png" group-title="DOCUMENTÁRIOS ²",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19230
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/HGTV.png" group-title="DOCUMENTÁRIOS ²",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19231
-#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Amazônica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19232
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",GLOBO BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19233
-#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Centro America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19234
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19235
-#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19236
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mirante HD (MARANHAO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Mirante HD (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19237
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19238
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSCTV Florianopolis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo NSCTV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19239
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo RBS CAXIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19240
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo RBS POA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19241
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV STA MARIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo RBS TV STA MARIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19242
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul HD (INTERIOR RJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Rio Sul HD (INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19243
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19244
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz Bahia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Santa Cruz Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19245
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19246
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19247
-#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA HD (SANTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo TRIBUNA HD (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19248
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo TV Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19249
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19250
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Recife HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo TV Recife HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19251
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19252
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="GLOBO ²",Globo Verdes Mares FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19253
-#EXTINF:-1 tvg-id="" tvg-name="SBT AM HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT AM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19254
-#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT BA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19255
-#EXTINF:-1 tvg-id="" tvg-name="SBT CE Jangadeiro" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT CE Jangadeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19256
-#EXTINF:-1 tvg-id="" tvg-name="SBT Int SP HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT Int SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19257
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT PARANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19258
-#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT PI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19259
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19260
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="SBT ²",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19261
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19262
-#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",BAND GOIANIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19263
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",BAND MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19264
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19265
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",Band RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19266
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BAND ²",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19267
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/band-news.png" group-title="NOTICIAS ²",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19268
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://script.horizonplay.io/logos/Noticias/CNN-brasil.png" group-title="NOTICIAS ²",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19269
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTICIAS ²",Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19270
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/globo-news.png" group-title="NOTICIAS ²",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19271
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="NOTICIAS ²",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19272
-#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/Record-news.png" group-title="NOTICIAS ²",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19273
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Action.png" group-title="TELECINE ²",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19274
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="TELECINE ²",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19275
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="TELECINE ²",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19276
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-pipoca.png" group-title="TELECINE ²",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19277
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-premium.png" group-title="TELECINE ²",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19278
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-touch.png" group-title="TELECINE ²",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19279
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19280
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19281
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19282
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19283
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19284
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19285
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19286
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="PREMIERE ²",PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19287
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="SPORTES ²",AMAZON PRIME JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19288
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="SPORTES ²",AMAZON PRIME JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19289
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="SPORTES ²",AMAZON PRIME JOGO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19290
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="SPORTES ²",AMAZON PRIME JOGO 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19291
-#EXTINF:-1 tvg-id="" tvg-name="ESPN (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="SPORTES ²",ESPN (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19292
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (H265)" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="SPORTES ²",ESPN 2 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19293
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTES ²",ESPN 3 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19294
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="SPORTES ²",ESPN 4 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19295
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="SPORTES ²",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19296
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="SPORTES ²",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19297
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="SPORTES ²",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19298
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="SPORTES ²",HBO MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19299
-#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv.png" group-title="SPORTES ²",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19300
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv2.png" group-title="SPORTES ²",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19301
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv3.png" group-title="SPORTES ²",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19302
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-extra.png" group-title="SPORTES ²",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19303
-#EXTINF:-1 tvg-id="" tvg-name="BandSports HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/band-sports.png" group-title="SPORTES ²",BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19304
-#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/combate.png" group-title="SPORTES ²",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19305
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="SPORTES ²",Conmebol 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19306
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="SPORTES ²",Conmebol 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19307
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="SPORTES ²",Conmebol 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19308
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="SPORTES ²",Conmebol 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19309
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD ²",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19321
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD ²",RECORD SC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19322
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD ²",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19323
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD ²",RECORD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/19324
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News 4K" tvg-logo="https://script.horizonplay.io/logos/Noticias/globo-news.png" group-title="✡ 4K ¹",Globo News 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21407
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT 4K" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ 4K ¹",SBT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21408
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ 4K ¹",Band 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21409
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ 4K ¹",Record 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21410
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://script.horizonplay.io/logos/Documentarios/animal-planet.png" group-title="✡ 4K ¹",Animal Planet 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21411
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel 4K" tvg-logo="https://script.horizonplay.io/logos/Documentarios/discovery-channel.png" group-title="✡ 4K ¹",Discovery Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21412
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H 4K" tvg-logo="https://script.horizonplay.io/logos/Variedades/H&H.png" group-title="✡ 4K ¹",Discovery H&H 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21413
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT 4K" tvg-logo="https://script.horizonplay.io/logos/Variedades/gnt.png" group-title="✡ 4K ¹",GNT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21414
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva 4K" tvg-logo="https://script.horizonplay.io/logos/Variedades/viva.png" group-title="✡ 4K ¹",Viva 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21415
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AXN.png" group-title="✡ 4K ¹",AXN 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21416
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="https://script.horizonplay.io/logos/Infantil/cartoon-network.png" group-title="✡ 4K ¹",Cartoon Network 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21417
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil 4K" tvg-logo="http://script.horizonplay.io/logos/Noticias/CNN-brasil.png" group-title="✡ 4K ¹",CNN Brasil 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21418
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate 4K" tvg-logo="https://script.horizonplay.io/logos/Esportes/combate.png" group-title="✡ 4K ¹",Combate 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21419
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo 4K" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-turbo.png" group-title="✡ 4K ¹",Discovery Turbo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21420
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 4K" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn4.png" group-title="✡ 4K ¹",ESPN 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21421
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 4K" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn.png" group-title="✡ 4K ¹",ESPN 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21422
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/gazeta-tv.png" group-title="✡ 4K ¹",Gazeta 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21423
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ 4K ¹",Globo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21424
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO.png" group-title="✡ 4K ¹",HBO 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21425
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix 4K" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/megapix.png" group-title="✡ 4K ¹",Megapix 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21426
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow 4K" tvg-logo="https://script.horizonplay.io/logos/Musicas/multishow.png" group-title="✡ 4K ¹",Multishow 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21427
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographics 4K" tvg-logo="https://script.horizonplay.io/logos/Documentarios/NatGeo.png" group-title="✡ 4K ¹",National Geographics 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21428
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ 4K ¹",PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21429
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV! 4K" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-tv.png" group-title="✡ 4K ¹",Rede TV! 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21430
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv.png" group-title="✡ 4K ¹",SporTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21431
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel 4K" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="✡ 4K ¹",Star Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21432
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TeleCine Action 4K" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Action.png" group-title="✡ 4K ¹",TeleCine Action 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21433
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-pipoca.png" group-title="✡ 4K ¹",Telecine Pipoca 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21434
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-premium.png" group-title="✡ 4K ¹",Telecine Premium 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21435
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="✡ 4K ¹",TNT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21436
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series 4K" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="✡ 4K ¹",TNT Series 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21437
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel 4K" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Universal-tv.png" group-title="✡ 4K ¹",Universal Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21438
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="✡ ABERTOS ¹",Canal do Boi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21439
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="✡ ABERTOS ¹",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21440
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="✡ ABERTOS ¹",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21441
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede Brasil HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-brasil.png" group-title="✡ ABERTOS ¹",Rede Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21442
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-tv.png" group-title="✡ ABERTOS ¹",RedeTV! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21443
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-tv.png" group-title="✡ ABERTOS ¹",RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21444
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-tv.png" group-title="✡ ABERTOS ¹",RedeTV! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21445
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/terra-viva.png" group-title="✡ ABERTOS ¹",Terra Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21446
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-brasil.png" group-title="✡ ABERTOS ¹",TV Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21447
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/rede-brasil.png" group-title="✡ ABERTOS ¹",TV Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21448
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/tv-camara.png" group-title="✡ ABERTOS ¹",TV Camara HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21449
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/tv-cultura.png" group-title="✡ ABERTOS ¹",TV Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21450
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="script.horizonplay.io/logos/Canais-Aberto/tv-cultura.png" group-title="✡ ABERTOS ¹",TV Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21451
-#EXTINF:-1 tvg-id="" tvg-name="TV Escola SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/tv-escola.png" group-title="✡ ABERTOS ¹",TV Escola SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21452
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/gazeta-tv.png" group-title="✡ ABERTOS ¹",TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21453
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/gazeta-tv.png" group-title="✡ ABERTOS ¹",TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21454
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/gazeta-tv.png" group-title="✡ ABERTOS ¹",TV Gazeta SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21455
-#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV Justica SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/tv-justica.png" group-title="✡ ABERTOS ¹",TV Justica SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21456
-#EXTINF:-1 tvg-id="" tvg-name="TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA)" tvg-logo="https://pbs.twimg.com/profile_images/914546721/BOLATVSF_400x400.png" group-title="✡ ABERTOS ¹",TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21457
-#EXTINF:-1 tvg-id="" tvg-name="TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA)" tvg-logo="https://pbs.twimg.com/profile_images/914546721/BOLATVSF_400x400.png" group-title="✡ ABERTOS ¹",TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21458
-#EXTINF:-1 tvg-id="" tvg-name="TV A Plateia HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV A Plateia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21459
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA ANAPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21460
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA ANAPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21461
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA CATALAO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21462
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA CATALAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21463
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA ITUMBIARA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21464
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV ANHANGUERA ITUMBIARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21465
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21466
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="✡ ABERTOS ¹",TV BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21467
-#EXTINF:-1 tvg-id="" tvg-name="TV CABUGI FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV CABUGI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21468
-#EXTINF:-1 tvg-id="" tvg-name="TV CABUGI HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="✡ ABERTOS ¹",TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21469
-#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV Camara FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✡ ABERTOS ¹",TV Camara FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21470
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV DIARIO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario-1_m.png" group-title="✡ ABERTOS ¹",TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21471
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="Tv Diario SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario-1_m.png" group-title="✡ ABERTOS ¹",Tv Diario SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21472
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS FHD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="✡ ABERTOS ¹",TV GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21473
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="✡ ABERTOS ¹",TV GAZETA ALAGOAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21474
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21517
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21518
-#EXTINF:-1 tvg-id="" tvg-name="BAND CURITIBA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21519
-#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND GOIANIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21520
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21521
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21522
-#EXTINF:-1 tvg-id="" tvg-name="Band News (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",Band News (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21523
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21524
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21525
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",Band RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21526
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",Band RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21527
-#EXTINF:-1 tvg-id="" tvg-name="Band SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",Band SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21528
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21529
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21530
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="✡ BAND ¹",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21531
-#EXTINF:-1 tvg-id="" tvg-name="Carioca 1" tvg-logo="https://www.netflu.com.br/wp-content/uploads/2021/11/campeonato-carioca-2022.jpg" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Carioca 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21532
-#EXTINF:-1 tvg-id="" tvg-name="Carioca 2" tvg-logo="https://www.netflu.com.br/wp-content/uploads/2021/11/campeonato-carioca-2022.jpg" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Carioca 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21533
-#EXTINF:-1 tvg-id="" tvg-name="Carioca 3" tvg-logo="https://www.netflu.com.br/wp-content/uploads/2021/11/campeonato-carioca-2022.jpg" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Carioca 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21534
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Conmebol 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21535
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Conmebol 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21536
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Conmebol 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21537
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Conmebol 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21538
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-do-brasil-logo.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",COPA DO BRASIL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21539
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-do-brasil-logo.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",COPA DO BRASIL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21540
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",COPA DO NORDESTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21541
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Copa_do_Nordeste.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",COPA DO NORDESTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21542
-#EXTINF:-1 tvg-id="" tvg-name="Catarinense 1" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/012/logo/thumbnail/360x354.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Catarinense 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21543
-#EXTINF:-1 tvg-id="" tvg-name="Catarinense 2" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/012/logo/thumbnail/360x354.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Catarinense 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21544
-#EXTINF:-1 tvg-id="" tvg-name="Paranaense 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Paranaense 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21545
-#EXTINF:-1 tvg-id="" tvg-name="Paranaense 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Paranaense 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21546
-#EXTINF:-1 tvg-id="" tvg-name="Sergipano 1" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Sergipano 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21547
-#EXTINF:-1 tvg-id="" tvg-name="Sergipano 2" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="✡ CAMPEONATOS ESTADUAIS ¹",Sergipano 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21548
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] 3 Palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21549
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] A Culpa é do Cabral 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21550
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] A Mansão Foster
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21551
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21552
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bita e os Animais" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24h] Bita e os Animais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21553
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Caillou
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21554
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Cascão A Turma da Monica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21555
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Cavaleiros do Zodiaco 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21556
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Cavaleiros do Zodiaco 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21557
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Cavaleiros do Zodiaco 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21558
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Caverna do Dragão 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21559
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Chapolin 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21560
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Chaves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21561
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Coragem o Cão Covarde 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21562
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Corrida Maluca 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21563
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Digimon 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21564
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Digimon 15º Aniversário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21565
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dois Homens e Meio 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21566
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21567
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21568
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Heroes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21569
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Super 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21570
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Super 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21571
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Super 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21572
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Z 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21573
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Dragon Ball Z 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21574
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Eu a Patroa e as Crianças 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21575
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Eu a Patroa e as Crianças 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21576
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Formiga Atômica" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Formiga Atômica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21577
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Friends 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21578
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Futurama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21579
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Guardiões da Galaxia" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24h] Guardiões da Galaxia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21580
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Looney Tunes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21581
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Luluzinha 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21582
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21583
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Moranguinho 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21584
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Naruto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21585
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] O Clube das Winx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Flinstones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21587
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Padrinhos Mágicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21588
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Padrinhos Mágicos 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21589
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Simpsons 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21590
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Simpsons 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21591
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Simpsons 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21592
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Os Simpsons 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21593
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Patrulha Canina 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21594
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Pica Pau 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21595
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Pink-e-Cerebro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21596
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] PJ Masks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21597
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Popeye
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21598
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Porta dos Fundos 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21599
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Show da Luna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21600
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Todo Mundo Odeia o Chris 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21601
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Todo Mundo Odeia o Chris 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21602
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Tom & Jerry
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21603
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Um Maluco no Pedaço 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21604
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Um Maluco no Pedaço 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21605
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhos" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24h] Ursinhos Carinhos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21606
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 1" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Vai que Cola 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21607
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 2" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] Vai que Cola 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21608
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] YT-Delegado Dacunha 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21609
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 02" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] YT-Delegado Dacunha 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21610
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Investigação Criminal" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] YT-Investigação Criminal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21611
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Policia Militar" tvg-logo="https://www.pub-voiture.com/wp-content/plugins/sticker-manage/assets/img/24H.png" group-title="✡ CANAIS [24h] ¹",[24H] YT-Policia Militar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21612
-#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",24h Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21613
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",As Meninas Superpoderosas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21614
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",BEN 10 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21615
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",BOB ESPONJA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21616
-#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",CAO CORAGEM 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21617
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Caverna do Dragão 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21618
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",CENTRAL KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21619
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Chapolin Colorado 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21620
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",CHAVES DESENHO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21621
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",CINE KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21622
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21623
-#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Denis o Pimentinha 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21624
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Desenhos Biblicos 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21625
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Desenhos Disney 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21626
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Digimon 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21627
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Doug 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21628
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",DRAGON BALL 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21629
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",DRAGON BALL SUPER 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21630
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",DRAGON BALL Z 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21631
-#EXTINF:-1 tvg-id="" tvg-name="France 24 FHD" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",France 24 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21632
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Galinha Pintadinha 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21633
-#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Historias Disney 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21634
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",HOMEM ARANHA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21635
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Homem de Ferro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21636
-#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Hércules 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21637
-#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Jack-Chan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21638
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Jaspion 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21639
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",JIRAYA O Incrível Ninja 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21640
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Kenan e Kel 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21641
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Liga da Justica 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21642
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Luluzinha 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21643
-#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Medabots 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21644
-#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",MegaMan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21645
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Mortal Kombat 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21646
-#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Mr.Ben 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21647
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Naruto Shippuden DUB 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21648
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",O Fantástico Mundo de Bobby 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21649
-#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",O MASKARA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21650
-#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Os Anjinhos - Rugrats 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21651
-#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",OS CAVALEIROS DO ZODIACO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21652
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",OS FLINTSTONES 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21653
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",OS SIMPSONS 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21654
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Os Vingadores 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21655
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Papa-Léguas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21656
-#EXTINF:-1 tvg-id="" tvg-name="Paramount (H265)" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Paramount (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21657
-#EXTINF:-1 tvg-id="" tvg-name="PEQUENOS ESPIOES 24 HRS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",PEQUENOS ESPIOES 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21658
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",PERNALONGA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21659
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Phineas e Ferb 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21660
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",PICA PAU 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21661
-#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Pink-e-Cerebro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21662
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",POKEMON 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21663
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Popeye O Marinheiro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21664
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Scooby-Doo 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21665
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",South Park 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21666
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Super Choque 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21667
-#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Superman 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21668
-#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",TARTARUGAS NINJAS 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21669
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Thundercats 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21670
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",TIMAO E PUMBA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21671
-#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Tres Espias Demais 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21672
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",Uma Família da Pesada 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21673
-#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",X-MAN 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21674
-#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",YU-GI-OH 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21675
-#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="https://static.wixstatic.com/media/58613f_18de9e698ece4180858f6c70f587f3c6~mv2.png/v1/fill/w_568,h_280,al_c,lg_1,enc_auto/24H.png" group-title="✡ CANAIS [24h] ¹",YU-YU-Hakusho 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21676
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky 1" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21677
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21678
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21679
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21680
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21681
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21682
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21683
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21684
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21685
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="✡ CINE SKY ¹",Cine Sky 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21686
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/animal-planet.png" group-title="✡ DOCUMENTARIOS ¹",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21687
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/animal-planet.png" group-title="✡ DOCUMENTARIOS ¹",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21688
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/animal-planet.png" group-title="✡ DOCUMENTARIOS ¹",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21689
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/discovery-channel.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21690
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/discovery-channel.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21691
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/discovery-channel.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21692
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-science.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21693
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-science.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21694
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-science.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21695
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21696
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21697
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21698
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-turbo.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21699
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-turbo.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21700
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-turbo.png" group-title="✡ DOCUMENTARIOS ¹",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21701
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-world.png" group-title="✡ DOCUMENTARIOS ¹",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21702
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-world.png" group-title="✡ DOCUMENTARIOS ¹",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21703
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/Discovery-world.png" group-title="✡ DOCUMENTARIOS ¹",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21704
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/History.png" group-title="✡ DOCUMENTARIOS ¹",History FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21705
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/History.png" group-title="✡ DOCUMENTARIOS ¹",History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21706
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/History.png" group-title="✡ DOCUMENTARIOS ¹",History SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21707
-#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/H2.png" group-title="✡ DOCUMENTARIOS ¹",History 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21708
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/H2.png" group-title="✡ DOCUMENTARIOS ¹",History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21709
-#EXTINF:-1 tvg-id="" tvg-name="History 2 SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/H2.png" group-title="✡ DOCUMENTARIOS ¹",History 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21710
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigation Discovery FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/ID-Investigation-Discovery.png" group-title="✡ DOCUMENTARIOS ¹",ID - Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21711
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigation Discovery HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/ID-Investigation-Discovery.png" group-title="✡ DOCUMENTARIOS ¹",ID - Investigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21712
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigacao Discovery SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/ID-Investigation-Discovery.png" group-title="✡ DOCUMENTARIOS ¹",ID - Investigacao Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21713
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo FHD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/NatGeo.png" group-title="✡ DOCUMENTARIOS ¹",NatGeo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21714
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo HD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/NatGeo.png" group-title="✡ DOCUMENTARIOS ¹",NatGeo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21715
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="https://script.horizonplay.io/logos/Documentarios/NatGeo.png" group-title="✡ DOCUMENTARIOS ¹",NatGeo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21716
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="✡ EXTRAS SPORTS ¹",AMAZON PRIME JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21717
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="✡ EXTRAS SPORTS ¹",AMAZON PRIME JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21718
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="✡ EXTRAS SPORTS ¹",AMAZON PRIME JOGO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21719
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video-logo-1.png" group-title="✡ EXTRAS SPORTS ¹",AMAZON PRIME JOGO 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21720
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21721
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21722
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 12" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21723
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 13" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21724
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 14" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21725
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 15" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21726
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 16" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21727
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 17" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21728
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 18" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21729
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 19" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",Eleven Sports 19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21730
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21731
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21732
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21733
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21734
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21735
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21736
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21737
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="✡ EXTRAS SPORTS ¹",ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21738
-#EXTINF:-1 tvg-id="" tvg-name="ESPN (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="✡ EXTRAS SPORTS ¹",ESPN (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21739
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (H265)" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="✡ EXTRAS SPORTS ¹",ESPN 2 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21740
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="✡ EXTRAS SPORTS ¹",ESPN 3 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21741
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="✡ EXTRAS SPORTS ¹",ESPN 4 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21742
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra (H265)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401" group-title="✡ EXTRAS SPORTS ¹",ESPN Extra (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21743
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 1" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21744
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 2" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21745
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 3" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21746
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 4" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21747
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 5" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21748
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 6" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" group-title="✡ EXTRAS SPORTS ¹",ESTÁDIO TNT SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21749
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="✡ EXTRAS SPORTS ¹",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21750
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="✡ EXTRAS SPORTS ¹",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21751
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="✡ EXTRAS SPORTS ¹",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21752
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1200px-HBO_Max_Logo_Old.svg.png" group-title="✡ EXTRAS SPORTS ¹",HBO MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21753
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AeE.png" group-title="✡ FILMES E SERIES ¹",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21754
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AeE.png" group-title="✡ FILMES E SERIES ¹",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21755
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AeE.png" group-title="✡ FILMES E SERIES ¹",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21756
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/amc.png" group-title="✡ FILMES E SERIES ¹",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21757
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/amc.png" group-title="✡ FILMES E SERIES ¹",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21758
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/amc.png" group-title="✡ FILMES E SERIES ¹",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21759
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AXN.png" group-title="✡ FILMES E SERIES ¹",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21760
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AXN.png" group-title="✡ FILMES E SERIES ¹",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21761
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/AXN.png" group-title="✡ FILMES E SERIES ¹",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21762
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Sony.png" group-title="✡ FILMES E SERIES ¹",Canal Sony FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21763
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Sony.png" group-title="✡ FILMES E SERIES ¹",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21764
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Sony.png" group-title="✡ FILMES E SERIES ¹",Canal Sony SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21765
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/cinemax.png" group-title="✡ FILMES E SERIES ¹",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21766
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/cinemax.png" group-title="✡ FILMES E SERIES ¹",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21767
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/cinemax.png" group-title="✡ FILMES E SERIES ¹",Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21768
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/comedy-central.png" group-title="✡ FILMES E SERIES ¹",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21769
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/comedy-central.png" group-title="✡ FILMES E SERIES ¹",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21770
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/comedy-central.png" group-title="✡ FILMES E SERIES ¹",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21771
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film e Arts FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/film-&-arts.png" group-title="✡ FILMES E SERIES ¹",Film e Arts FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21772
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film e Arts HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/film-&-arts.png" group-title="✡ FILMES E SERIES ¹",Film e Arts HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21773
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film e Arts SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/film-&-arts.png" group-title="✡ FILMES E SERIES ¹",Film e Arts SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21774
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/FX.png" group-title="✡ FILMES E SERIES ¹",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21775
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/FX.png" group-title="✡ FILMES E SERIES ¹",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21776
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/FX.png" group-title="✡ FILMES E SERIES ¹",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21777
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/megapix.png" group-title="✡ FILMES E SERIES ¹",Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21778
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/megapix.png" group-title="✡ FILMES E SERIES ¹",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21779
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/megapix.png" group-title="✡ FILMES E SERIES ¹",Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21780
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/paramount%20.png" group-title="✡ FILMES E SERIES ¹",Paramount FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21781
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/paramount%20.png" group-title="✡ FILMES E SERIES ¹",Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21782
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/paramount%20.png" group-title="✡ FILMES E SERIES ¹",Paramount SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21783
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/space.png" group-title="✡ FILMES E SERIES ¹",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21784
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/space.png" group-title="✡ FILMES E SERIES ¹",Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21785
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/space.png" group-title="✡ FILMES E SERIES ¹",Space SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21786
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="✡ FILMES E SERIES ¹",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21787
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="✡ FILMES E SERIES ¹",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21788
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="✡ FILMES E SERIES ¹",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21789
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/studio-universal.png" group-title="✡ FILMES E SERIES ¹",Studio Universal FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21790
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/studio-universal.png" group-title="✡ FILMES E SERIES ¹",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21791
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/studio-universal.png" group-title="✡ FILMES E SERIES ¹",Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21792
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/SYFY.png" group-title="✡ FILMES E SERIES ¹",SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21793
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/SYFY.png" group-title="✡ FILMES E SERIES ¹",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21794
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/SYFY.png" group-title="✡ FILMES E SERIES ¹",SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21795
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TBS.png" group-title="✡ FILMES E SERIES ¹",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21796
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TBS.png" group-title="✡ FILMES E SERIES ¹",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21797
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TBS.png" group-title="✡ FILMES E SERIES ¹",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21798
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TCM.png" group-title="✡ FILMES E SERIES ¹",TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21799
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TCM.png" group-title="✡ FILMES E SERIES ¹",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21800
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TCM.png" group-title="✡ FILMES E SERIES ¹",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21801
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT.png" group-title="✡ FILMES E SERIES ¹",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21802
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT.png" group-title="✡ FILMES E SERIES ¹",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21803
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT.png" group-title="✡ FILMES E SERIES ¹",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21804
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="✡ FILMES E SERIES ¹",TNT Series FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21805
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="✡ FILMES E SERIES ¹",TNT Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21806
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/TNT-series.png" group-title="✡ FILMES E SERIES ¹",TNT Series SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21807
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Universal-tv.png" group-title="✡ FILMES E SERIES ¹",Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21808
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Universal-tv.png" group-title="✡ FILMES E SERIES ¹",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21809
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Universal-tv.png" group-title="✡ FILMES E SERIES ¹",Universal TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21810
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner FHD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Warner.png" group-title="✡ FILMES E SERIES ¹",Warner FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21811
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Warner.png" group-title="✡ FILMES E SERIES ¹",Warner HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21812
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner SD" tvg-logo="https://script.horizonplay.io/logos/Filmes-e-Series/Warner.png" group-title="✡ FILMES E SERIES ¹",Warner SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21813
-#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Amazônica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21814
-#EXTINF:-1 tvg-id="" tvg-name="Globo Asa branca FHD (Caruaru PE)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Asa branca FHD (Caruaru PE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21815
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO BAHIA  FHD (SALVADOR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21816
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO BAHIA HD (SALVADOR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21817
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD (SALVADOR)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO BAHIA SD (SALVADOR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21818
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21819
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELÉM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO BELÉM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21820
-#EXTINF:-1 tvg-id="" tvg-name="Globo BRASILIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21821
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO Centro Ameria SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO Centro Ameria SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21822
-#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Centro America FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21823
-#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Centro America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21824
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21825
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV CAMPINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21826
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21827
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV Ribeirao Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21828
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV SUL DE MINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21829
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21830
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21831
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo EPTV São Carlos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21832
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO INTEGRAÇÃO MG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21833
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO INTEGRAÇÃO MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21834
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER DO VALE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO INTER DO VALE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21835
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21836
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21837
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21838
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO INTER VALE MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21839
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21840
-#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21841
-#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21842
-#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21843
-#EXTINF:-1 tvg-id="" tvg-name="Globo MG FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo MG FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21844
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21845
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21846
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mirante FHD (MARANHAO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Mirante FHD (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21847
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mirante HD (MARANHAO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Mirante HD (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21848
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mirante SD (MARANHAO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Mirante SD (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21849
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21850
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21851
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21852
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21853
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo NSC Florianopolis SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21854
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Santa Catarina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo NSC Santa Catarina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21855
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo NSC TV Criciuma FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21856
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSCTV Florianopolis FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo NSCTV Florianopolis FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21857
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSCTV Florianopolis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo NSCTV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21858
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS CAXIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21859
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS CAXIAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21860
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS CAXIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21861
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS PELOTAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS PELOTAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21862
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS PELOTAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS PELOTAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21863
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS POA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21864
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS POA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS POA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21865
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21866
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS TV POA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21867
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV STA MARIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS TV STA MARIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21868
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV STA MARIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS TV STA MARIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21869
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV STA MARIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RBS TV STA MARIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21870
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Rede Amazonica FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21871
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul FHD (INTERIOR RJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Rio Sul FHD (INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21872
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul HD (INTERIOR RJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Rio Sul HD (INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21873
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul SD (INTERIOR RJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Rio Sul SD (INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21874
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21875
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rj FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Rj FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21876
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD (REGIAO SERRANA)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RJ FHD (REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21877
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21878
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD (REGIAO SERRANA)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RJ HD (REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21879
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RJ SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21880
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC FOZ DO IGUAÇU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RPC FOZ DO IGUAÇU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21881
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC FOZ DO IGUAÇU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RPC FOZ DO IGUAÇU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21882
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RPC Maringa FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21883
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Parana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo RPC Parana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21884
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz Bahia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Santa Cruz Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21885
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz Bahia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Santa Cruz Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21886
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz Bahia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Santa Cruz Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21887
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21888
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21889
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Sergipe SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21890
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21891
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO SP FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21892
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21893
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21894
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo SP SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21895
-#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA FHD (SANTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TRIBUNA FHD (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21896
-#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA HD (SANTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TRIBUNA HD (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21897
-#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA SD (SANTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TRIBUNA SD (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21898
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Anhanguera  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21899
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV Bahia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GLOBO TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21900
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Belem FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21901
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21902
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21903
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Cabo Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21904
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV CLUBE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV CLUBE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21905
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21906
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21907
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Morena SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21908
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Recife HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Recife HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21909
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subae" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Subae
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21910
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM SJ do Rio Preto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV TEM SJ do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21911
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Tem Sorocaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21912
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21913
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21914
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo TV Verdes Mares SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21915
-#EXTINF:-1 tvg-id="" tvg-name="Globo VANGUARDA FHD (SAO JOSE DOS CAMPOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo VANGUARDA FHD (SAO JOSE DOS CAMPOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21916
-#EXTINF:-1 tvg-id="" tvg-name="Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21917
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",Globo Verdes Mares FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21918
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="✡ GLOBO ¹",GloboNews (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21919
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO.png" group-title="✡ HBO 1",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21920
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO.png" group-title="✡ HBO 1",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21921
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO.png" group-title="✡ HBO 1",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21922
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-2.png" group-title="✡ HBO 1",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21923
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-2.png" group-title="✡ HBO 1",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21924
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-2.png" group-title="✡ HBO 1",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21925
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-family.png" group-title="✡ HBO 1",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21926
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-family.png" group-title="✡ HBO 1",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21927
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-family.png" group-title="✡ HBO 1",HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21928
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Mundi.png" group-title="✡ HBO 1",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21929
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Mundi.png" group-title="✡ HBO 1",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21930
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Mundi.png" group-title="✡ HBO 1",HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21931
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21932
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21933
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21934
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-pop.png" group-title="✡ HBO 1",HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21935
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-pop.png" group-title="✡ HBO 1",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21936
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-pop.png" group-title="✡ HBO 1",HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21937
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21938
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21939
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Signature.png" group-title="✡ HBO 1",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21940
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Xtreme.png" group-title="✡ HBO 1",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21941
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Xtreme.png" group-title="✡ HBO 1",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21942
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="https://script.horizonplay.io/logos/Rede-HBO/HBO-Xtreme.png" group-title="✡ HBO 1",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21943
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/baby-tv.png" group-title="✡ INFANTIS ¹",Baby TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21944
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/baby-tv.png" group-title="✡ INFANTIS ¹",Baby TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21945
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://script.horizonplay.io/logos/Infantil/cartoon-network.png" group-title="✡ INFANTIS ¹",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21946
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/cartoon-network.png" group-title="✡ INFANTIS ¹",Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21947
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Cartoonito FHD" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1661/cartoonito/showpage/ab/cartoonito-logo-min.8cbf6eca.png" group-title="✡ INFANTIS ¹",Cartoonito FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21948
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Cartoonito HD" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1661/cartoonito/showpage/ab/cartoonito-logo-min.8cbf6eca.png" group-title="✡ INFANTIS ¹",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21949
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Cartoonito SD" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1661/cartoonito/showpage/ab/cartoonito-logo-min.8cbf6eca.png" group-title="✡ INFANTIS ¹",Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21950
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/discovery-kids.png" group-title="✡ INFANTIS ¹",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21951
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/discovery-kids.png" group-title="✡ INFANTIS ¹",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21952
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Disney-channel.png" group-title="✡ INFANTIS ¹",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21953
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Disney-channel.png" group-title="✡ INFANTIS ¹",Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21954
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Gloob.png" group-title="✡ INFANTIS ¹",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21955
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Gloob.png" group-title="✡ INFANTIS ¹",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21956
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/gloobinho.png" group-title="✡ INFANTIS ¹",Gloobinho HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21957
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/gloobinho.png" group-title="✡ INFANTIS ¹",Gloobinho SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21958
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nick HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nickelodeon.png" group-title="✡ INFANTIS ¹",Nick HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21959
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nick SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nickelodeon.png" group-title="✡ INFANTIS ¹",Nick SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21960
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nick-jr.png" group-title="✡ INFANTIS ¹",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21961
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/nick-jr.png" group-title="✡ INFANTIS ¹",Nick Jr SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21962
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Tooncast.png" group-title="✡ INFANTIS ¹",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21963
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Tooncast.png" group-title="✡ INFANTIS ¹",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21964
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra-Tim-Bum HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/TV-ra-tim-bum.png" group-title="✡ INFANTIS ¹",TV Ra-Tim-Bum HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21965
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra-Tim-Bum SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/TV-ra-tim-bum.png" group-title="✡ INFANTIS ¹",TV Ra-Tim-Bum SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21966
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Zoomoo.png" group-title="✡ INFANTIS ¹",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21967
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="https://script.horizonplay.io/logos/Infantil/Zoomoo.png" group-title="✡ INFANTIS ¹",Zoomoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21968
-#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://script.horizonplay.io/logos/Musicas/bis.png" group-title="✡ MUSICAS ¹",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21969
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://script.horizonplay.io/logos/Musicas/bis.png" group-title="✡ MUSICAS ¹",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21970
-#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="https://script.horizonplay.io/logos/Musicas/mtv.png" group-title="✡ MUSICAS ¹",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21971
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://script.horizonplay.io/logos/Musicas/mtv.png" group-title="✡ MUSICAS ¹",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21972
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s FHD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5e/MTV_00s_logo.png/revision/latest/scale-to-width-down/250?cb=20201106173216" group-title="✡ MUSICAS ¹",MTV 00s FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21973
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5e/MTV_00s_logo.png/revision/latest/scale-to-width-down/250?cb=20201106173216" group-title="✡ MUSICAS ¹",MTV 00s HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21974
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-live-hd_m.png" group-title="✡ MUSICAS ¹",MTV Live FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21975
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-live-hd_m.png" group-title="✡ MUSICAS ¹",MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21976
-#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="https://script.horizonplay.io/logos/Musicas/multishow.png" group-title="✡ MUSICAS ¹",Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21977
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://script.horizonplay.io/logos/Musicas/multishow.png" group-title="✡ MUSICAS ¹",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21978
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Music Box Brazil FHD" tvg-logo="https://script.horizonplay.io/logos/Musicas/music-box-brazil.png" group-title="✡ MUSICAS ¹",Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21979
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://script.horizonplay.io/logos/Musicas/music-box-brazil.png" group-title="✡ MUSICAS ¹",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21980
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil FHD" tvg-logo="https://script.horizonplay.io/logos/Musicas/prime-box-brazil.png" group-title="✡ MUSICAS ¹",Prime Box Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21981
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD" tvg-logo="https://script.horizonplay.io/logos/Musicas/prime-box-brazil.png" group-title="✡ MUSICAS ¹",Prime Box Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21982
-#EXTINF:-1 tvg-id="" tvg-name="Top TV HD" tvg-logo="https://seeklogo.com/images/T/top-tv-logo-5999E0BF67-seeklogo.com.png" group-title="✡ MUSICAS ¹",Top TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21983
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/band-news.png" group-title="✡ NOTICIAS ¹",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21984
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://script.horizonplay.io/logos/Noticias/CNN-brasil.png" group-title="✡ NOTICIAS ¹",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21985
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="✡ NOTICIAS ¹",Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21986
-#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="https://script.horizonplay.io/logos/Noticias/globo-news.png" group-title="✡ NOTICIAS ¹",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21987
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/globo-news.png" group-title="✡ NOTICIAS ¹",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21988
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News H265" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="✡ NOTICIAS ¹",Jovem Pan News H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21989
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="✡ NOTICIAS ¹",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21990
-#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="https://script.horizonplay.io/logos/Noticias/Record-news.png" group-title="✡ NOTICIAS ¹",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21991
-#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="https://script.horizonplay.io/logos/Noticias/Record-news.png" group-title="✡ NOTICIAS ¹",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21992
-#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="https://script.horizonplay.io/logos/Noticias/Record-news.png" group-title="✡ NOTICIAS ¹",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21993
-#EXTINF:-1 tvg-id="" tvg-name="CAM 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bf/Power_Couple_Brasil.jpg" group-title="✡ Power Couple (Brasil) ¹",CAM 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21994
-#EXTINF:-1 tvg-id="" tvg-name="CAM 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bf/Power_Couple_Brasil.jpg" group-title="✡ Power Couple (Brasil) ¹",CAM 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21995
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21996
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21997
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21998
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/21999
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22000
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22001
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22002
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22003
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22004
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22005
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22006
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22007
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22008
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22009
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22010
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22011
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22012
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22013
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22014
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22015
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22016
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 HD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22017
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="https://script.horizonplay.io/logos/Premiere/premiere-Fc.png" group-title="✡ PREMIERE ¹",Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22018
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22019
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22020
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BELÉM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD BELÉM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22021
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22022
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22023
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22024
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD GO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22025
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",Record Itapoan HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22026
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22027
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22028
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD PARANA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22029
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22030
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22031
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22032
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22033
-#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",Record RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22034
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22035
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD SC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22036
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22037
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22038
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22039
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22040
-#EXTINF:-1 tvg-id="" tvg-name="RECORD UBERLÂNDIA MG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="✡ RECORD ¹",RECORD UBERLÂNDIA MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22041
-#EXTINF:-1 tvg-id="" tvg-name="SBT AM HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT AM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22042
-#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT BA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22043
-#EXTINF:-1 tvg-id="" tvg-name="SBT BSB" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT BSB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22044
-#EXTINF:-1 tvg-id="" tvg-name="SBT CE Jangadeiro" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT CE Jangadeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22045
-#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT GO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22046
-#EXTINF:-1 tvg-id="" tvg-name="SBT Int SP HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT Int SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22047
-#EXTINF:-1 tvg-id="" tvg-name="SBT MT HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT MT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22048
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT PARANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22049
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT PARANA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22050
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22051
-#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT PI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22052
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22053
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22054
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22055
-#EXTINF:-1 tvg-id="" tvg-name="SBT SD²" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22056
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22057
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22058
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/sbt.png" group-title="✡ SBT ¹",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22059
-#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv.png" group-title="✡ SPORTES ¹",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22060
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv.png" group-title="✡ SPORTES ¹",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22061
-#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv.png" group-title="✡ SPORTES ¹",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22062
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv2.png" group-title="✡ SPORTES ¹",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22063
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv2.png" group-title="✡ SPORTES ¹",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22064
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv2.png" group-title="✡ SPORTES ¹",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22065
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv3.png" group-title="✡ SPORTES ¹",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22066
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv3.png" group-title="✡ SPORTES ¹",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22067
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/sportv3.png" group-title="✡ SPORTES ¹",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22068
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn.png" group-title="✡ SPORTES ¹",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22069
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn.png" group-title="✡ SPORTES ¹",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22070
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn.png" group-title="✡ SPORTES ¹",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22071
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-2.png" group-title="✡ SPORTES ¹",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22072
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-2.png" group-title="✡ SPORTES ¹",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22073
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-2.png" group-title="✡ SPORTES ¹",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22074
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn3.png" group-title="✡ SPORTES ¹",ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22075
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn3.png" group-title="✡ SPORTES ¹",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22076
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn3.png" group-title="✡ SPORTES ¹",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22077
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn4.png" group-title="✡ SPORTES ¹",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22078
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn4.png" group-title="✡ SPORTES ¹",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22079
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn4.png" group-title="✡ SPORTES ¹",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22080
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-extra.png" group-title="✡ SPORTES ¹",ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22081
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-extra.png" group-title="✡ SPORTES ¹",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22082
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/espn-extra.png" group-title="✡ SPORTES ¹",ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22083
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fox-sports-2.png" group-title="✡ SPORTES ¹",Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22084
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fox-sports-2.png" group-title="✡ SPORTES ¹",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22085
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fox-sports-2.png" group-title="✡ SPORTES ¹",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22086
-#EXTINF:-1 tvg-id="" tvg-name="BandSports FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/band-sports.png" group-title="✡ SPORTES ¹",BandSports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22087
-#EXTINF:-1 tvg-id="" tvg-name="BandSports HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/band-sports.png" group-title="✡ SPORTES ¹",BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22088
-#EXTINF:-1 tvg-id="" tvg-name="BandSports SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/band-sports.png" group-title="✡ SPORTES ¹",BandSports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22089
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/combate.png" group-title="✡ SPORTES ¹",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22090
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/combate.png" group-title="✡ SPORTES ¹",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22091
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/combate.png" group-title="✡ SPORTES ¹",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22092
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV FHD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fishtv.png" group-title="✡ SPORTES ¹",Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22093
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fishtv.png" group-title="✡ SPORTES ¹",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22094
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV SD" tvg-logo="https://script.horizonplay.io/logos/Esportes/fishtv.png" group-title="✡ SPORTES ¹",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22095
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/F1_logo.svg/2560px-F1_logo.svg.png" group-title="✡ SPORTES ¹",FORMULA 1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22096
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="✡ SPORTES ¹",DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22097
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="✡ SPORTES ¹",DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22098
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="✡ SPORTES ¹",DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22099
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Action.png" group-title="✡ TELECINE ¹",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22100
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Action.png" group-title="✡ TELECINE ¹",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22101
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Action.png" group-title="✡ TELECINE ¹",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22102
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="✡ TELECINE ¹",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22103
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="✡ TELECINE ¹",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22104
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="✡ TELECINE ¹",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22105
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="✡ TELECINE ¹",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22106
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="✡ TELECINE ¹",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22107
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="✡ TELECINE ¹",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22108
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-pipoca.png" group-title="✡ TELECINE ¹",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22109
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-pipoca.png" group-title="✡ TELECINE ¹",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22110
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-pipoca.png" group-title="✡ TELECINE ¹",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22111
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-premium.png" group-title="✡ TELECINE ¹",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22112
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-premium.png" group-title="✡ TELECINE ¹",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22113
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-premium.png" group-title="✡ TELECINE ¹",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22114
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-touch.png" group-title="✡ TELECINE ¹",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22115
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-touch.png" group-title="✡ TELECINE ¹",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22116
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="https://script.horizonplay.io/logos/Rede-Telecine/Tele-cine-touch.png" group-title="✡ TELECINE ¹",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22117
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/arte-1.png" group-title="✡ VARIEDADES ¹",Arte 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22118
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/arte-1.png" group-title="✡ VARIEDADES ¹",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22119
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/canal-Brasil.png" group-title="✡ VARIEDADES ¹",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22120
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/canal-Brasil.png" group-title="✡ VARIEDADES ¹",Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22121
-#EXTINF:-1 tvg-id="" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_footer-1.png" group-title="✡ VARIEDADES ¹",Com Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22122
-#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/curta.png" group-title="✡ VARIEDADES ¹",Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22123
-#EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="https://script.horizonplay.io/logos/Variedades/curta.png" group-title="✡ VARIEDADES ¹",Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22124
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home e Health FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/H&H.png" group-title="✡ VARIEDADES ¹",Discovery Home e Health FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22125
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home e Health HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/H&H.png" group-title="✡ VARIEDADES ¹",Discovery Home e Health HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22126
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/dogtv.png" group-title="✡ VARIEDADES ¹",DOG TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22127
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/E!.png" group-title="✡ VARIEDADES ¹",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22128
-#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/E!.png" group-title="✡ VARIEDADES ¹",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22129
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/Food-Network.png" group-title="✡ VARIEDADES ¹",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22130
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/Food-Network.png" group-title="✡ VARIEDADES ¹",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22131
-#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/gnt.png" group-title="✡ VARIEDADES ¹",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22132
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/gnt.png" group-title="✡ VARIEDADES ¹",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22133
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/HGTV.png" group-title="✡ VARIEDADES ¹",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22134
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/HGTV.png" group-title="✡ VARIEDADES ¹",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22135
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/lifetime.png" group-title="✡ VARIEDADES ¹",Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22136
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/lifetime.png" group-title="✡ VARIEDADES ¹",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22137
-#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/OFF.png" group-title="✡ VARIEDADES ¹",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22138
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/OFF.png" group-title="✡ VARIEDADES ¹",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22139
-#EXTINF:-1 tvg-id="" tvg-name="Polishop TV HD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/polishop.png" group-title="✡ VARIEDADES ¹",Polishop TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22140
-#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="https://script.horizonplay.io/logos/Canais-Aberto/polishop.png" group-title="✡ VARIEDADES ¹",Polishop TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22141
-#EXTINF:-1 tvg-id="" tvg-name="Shoptime FHD" tvg-logo="https://images-shoptime.b2w.io/zion/manifest/icons/4d42fd86e64bca3c98f525faa6859a37.opengraph-image.png" group-title="✡ VARIEDADES ¹",Shoptime FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22142
-#EXTINF:-1 tvg-id="" tvg-name="Shoptime HD" tvg-logo="https://images-shoptime.b2w.io/zion/manifest/icons/4d42fd86e64bca3c98f525faa6859a37.opengraph-image.png" group-title="✡ VARIEDADES ¹",Shoptime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22143
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/tlc.png" group-title="✡ VARIEDADES ¹",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22144
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/tlc.png" group-title="✡ VARIEDADES ¹",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22145
-#EXTINF:-1 tvg-id="" tvg-name="TruTV FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/Tru-tv.png" group-title="✡ VARIEDADES ¹",TruTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22146
-#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/Tru-tv.png" group-title="✡ VARIEDADES ¹",TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22147
-#EXTINF:-1 tvg-id="" tvg-name="TVT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="✡ VARIEDADES ¹",TVT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22148
-#EXTINF:-1 tvg-id="" tvg-name="Urban TV HD" tvg-logo="http://urbantv.com.br/img/logo.png" group-title="✡ VARIEDADES ¹",Urban TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22149
-#EXTINF:-1 tvg-id="" tvg-name="Vale EU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="✡ VARIEDADES ¹",Vale EU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22150
-#EXTINF:-1 tvg-id="" tvg-name="BSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/BSTV_Logo.png" group-title="✡ VARIEDADES ¹",BSTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22151
-#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="https://script.horizonplay.io/logos/Variedades/viva.png" group-title="✡ VARIEDADES ¹",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22152
-#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="https://script.horizonplay.io/logos/Variedades/viva.png" group-title="✡ VARIEDADES ¹",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22153
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo FHD" tvg-logo="script.horizonplay.io/logos/Variedades/woohoo.png" group-title="✡ VARIEDADES ¹",Woohoo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22154
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD" tvg-logo="https://script.horizonplay.io/logos/Variedades/woohoo.png" group-title="✡ VARIEDADES ¹",Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://88.198.192.72:8080/movcineplus/123654852748/22155
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="http://toptv2.com:25461/logos/A&E_4K.png" group-title="FILMES & SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13665.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://toptv2.com:25461/logos/A&E_HD.png" group-title="FILMES & SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33360.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="http://toptv2.com:25461/logos/amc.png" group-title="FILMES & SERIES",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14167.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14132.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_hd.png" group-title="FILMES & SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14158.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-4K.png" group-title="FILMES & SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13667.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36411.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13672.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY UHD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES & SERIES",CANAL SONY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13730.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 4K" tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="FILMES & SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41362.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX UHD" tvg-logo="http://toptv2.com:25461/logos/cinemax_UHD.png" group-title="FILMES & SERIES",CINEMAX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13674.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="FILMES & SERIES",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27255.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" tvg-logo="http://toptv2.com:25461/logos/filmandarts.png" group-title="FILMES & SERIES",FILM & ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14110.ts
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_CHANNEL_.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13690.ts
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_LIFE_.png" group-title="FILMES & SERIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13691.ts
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="STAR HITS 1 4K" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="FILMES & SERIES",STAR HITS 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13692.ts
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="STAR HITS 2 4K" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="FILMES & SERIES",STAR HITS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13693.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES & SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13696.ts
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13858.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13707.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2.png" group-title="FILMES & SERIES",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13704.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13861.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="FILMES & SERIES",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13699.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13874.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family_HD.png" group-title="FILMES & SERIES",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13705.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="FILMES & SERIES",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13706.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4K" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="FILMES & SERIES",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13712.ts
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS E UHD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus_E_UHD.png" group-title="FILMES & SERIES",HBO PLUS E UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13805.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="FILMES & SERIES",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13859.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14155.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13708.ts
+#EXTINF:-1 tvg-id="maxprimee.br" tvg-name="HBO XTREME 4K" tvg-logo="https://i1.wp.com/livetv.tube/wp-content/uploads/2020/02/hbo-xtreme-ao-vivo-1.png?fit=300%2C300&ssl=1" group-title="FILMES & SERIES",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13713.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES & SERIES",I-SAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13881.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://toptv2.com:25461/logos/Megapix_4K.png" group-title="FILMES & SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13715.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="http://toptv2.com:25461/logos/Megapix.png" group-title="FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41363.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41364.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13722.ts
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13810.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_4K.png" group-title="FILMES & SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14164.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13731.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13735.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_4K.png" group-title="FILMES & SERIES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14152.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13737.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM 4K" tvg-logo="http://toptv2.com:25461/logos/TCM.png" group-title="FILMES & SERIES",TCM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13891.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14120.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_4K.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14171.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION UHD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_UHD.png" group-title="FILMES & SERIES",TELECINE ACTION UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13738.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Cult_4K.png" group-title="FILMES & SERIES",TELECINE CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14094.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Cult_HD.png" group-title="FILMES & SERIES",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13739.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_4K.png" group-title="FILMES & SERIES",TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14104.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_HD.png" group-title="FILMES & SERIES",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13740.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_4K.png" group-title="FILMES & SERIES",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14101.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA UHD" tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_UHD.png" group-title="FILMES & SERIES",TELECINE PIPOCA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13741.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_4K.png" group-title="FILMES & SERIES",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14099.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_HD.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13742.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_4K.png" group-title="FILMES & SERIES",TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14162.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_HD.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13743.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="http://toptv2.com:25461/logos/Tnt-4K.png" group-title="FILMES & SERIES",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14098.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_4K.png" group-title="FILMES & SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14134.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES UHD" tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_UHD.png" group-title="FILMES & SERIES",TNT SERIES UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13746.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT UHD" tvg-logo="http://toptv2.com:25461/logos/Tnt-UHD.png" group-title="FILMES & SERIES",TNT UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13745.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/Universal_Channel.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13747.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13750.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="FILMES & SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44132.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY LAND" tvg-logo="" group-title="FILMES & SERIES",BABY LAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44185.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN 4K LEG" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE8Udvel-OdtA/company-logo_200_200/0?e=2159024400&v=beta&t=dJltNOaLsrczE0PnOChuPdgdpegZn0h1IBSOicStJY4" group-title="LEGENDADO EN & BR",AXN 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34256.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK 4K LEG" tvg-logo="https://seeklogo.com/images/A/axn-black-logo-957F60EDA3-seeklogo.com.png" group-title="LEGENDADO EN & BR",AXN BLACK 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34257.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_white.png?itok=-PuUuxuu" group-title="LEGENDADO EN & BR",AXN WHITE 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34258.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSneX81hk55AP-IDCkkCI6HLXDpbHSkrB8afU6BWUUK-D8NVU4p" group-title="LEGENDADO EN & BR",CINE MUNDO 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34288.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2019_discovery_logo.svg_.png?h8h75sfVrDkARtI9NxHArGmxW49BMJuI&itok=s5_yv3rT" group-title="LEGENDADO EN & BR",DISCOVERY CHANNEL 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34289.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID 4K LEG" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LEGENDADO EN & BR",DISCOVERY ID 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34311.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY 4K LEG" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="LEGENDADO EN & BR",FOX COMEDY 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34278.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ4Nqe4KLocpEDx1aZJLfDqFqfiZWRn_SjHhvq9J90Rs6vr2Yj" group-title="LEGENDADO EN & BR",FOX CRIME 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34279.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHfSUXj-pnlaUrvfc4_x7Wbr0KtlUnLXpnqBV3a6Z_weDvzaco" group-title="LEGENDADO EN & BR",FOX MOVIES 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34277.ts
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="HBO 3 4K" tvg-logo="https://4.bp.blogspot.com/-e6U0SRAocBI/VvFq_nI11EI/AAAAAAAAPy4/vYR5oufvEvUxJsuIV3NH7gTh_WS8iZCbQ/s1600/HBO%2B3%2BHD%2Bwhite%2Bbg.jpg" group-title="LEGENDADO EN & BR",HBO 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13714.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSp9MQDg-8hwTnZBPAGRTM0KCL1TkbdAGYZiQ&usqp=CAU" group-title="LEGENDADO EN & BR",HBO MUNDI 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36279.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYQ8DMRG2YSq3na0Y0WOKsq9RtO8VT9i2U6s5T61j9XkGbSGj0" group-title="LEGENDADO EN & BR",HBO POP 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36281.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1lFY1SFjvO1rz5PE9-eLXUPNCbCx2F5gDwJr3MyZXdFv8HVwl" group-title="LEGENDADO EN & BR",HBO XTREME 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36280.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRASHIC 4K LEG" tvg-logo="https://www.swapy.com.br/wp-content/uploads/2019/07/nationa-geographic.png" group-title="LEGENDADO EN & BR",NATIONAL GEOGRASHIC 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34320.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/4575/brand.gif?itok=ihFEaiAi" group-title="LEGENDADO EN & BR",SIC MULHER 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34284.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 4K LEG" tvg-logo="https://4.bp.blogspot.com/_m9pOjNr3Zn8/SL8l22HvEII/AAAAAAAACG0/_bYo1wCIues/s320/tvcine1.jpg" group-title="LEGENDADO EN & BR",TVC 1 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34271.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnSQ0mRuIglkyDa7PsxORInCKhauKYWqNBaPMPTVkcvgMHmvyK" group-title="LEGENDADO EN & BR",TVC 2 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34272.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWUcJ8UwmQebVAIstUCSpzzPuU_D1gV6Xp5AEG33u2qYL4jH9w" group-title="LEGENDADO EN & BR",TVC 3 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34273.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOrqonQS0FOoz0kNzJKSPIHuEJHwg3GwsKfNrfDQhG2B10zygT" group-title="LEGENDADO EN & BR",TVC 4 4K LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34274.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION LEG 4K" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcineaction-e1583912767831.png" group-title="LEGENDADO EN & BR",TVCINE ACTION LEG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41875.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION LEG 4K" tvg-logo="https://www.dstvafrica.com/media/8918/tvcine_emotion.jpg" group-title="LEGENDADO EN & BR",TVCINE EDITION LEG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41874.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP LEG 4K" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcinetop-e1583912798176.png" group-title="LEGENDADO EN & BR",TVCINE TOP LEG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41873.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_4K.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14154.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13666.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/Discovery_channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13676.ts
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="DISCOVERY CIVILIZATION 4K" tvg-logo="http://toptv2.com:25461/logos/discovery-civilization-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27256.ts
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="http://toptv2.com:25461/logos/h_h_HD.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13677.ts
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY ID 4K" tvg-logo="http://toptv2.com:25461/logos/ID.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13710.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://toptv2.com:25461/logos/Discovery_Science.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/4809.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER UHD" tvg-logo="http://toptv2.com:25461/logos/discovery-hd-theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13679.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="http://toptv2.com:25461/logos/TLC_Discovery.png" group-title="DOCUMENTARIOS",DISCOVERY TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27252.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://toptv2.com:25461/logos/DiscoveryTurbO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13680.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD UHD" tvg-logo="http://toptv2.com:25461/logos/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13681.ts
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV 4K" tvg-logo="http://toptv2.com:25461/logos/fishtv_HD.png" group-title="DOCUMENTARIOS",FISH TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27253.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK UHD" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="DOCUMENTARIOS",FOOD NETWORK UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13689.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="DOCUMENTARIOS",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13799.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT UHD" tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="DOCUMENTARIOS",GNT UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13702.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13703.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27313.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="DOCUMENTARIOS",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13711.ts
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://toptv2.com:25461/logos/National-Geographic-Wild-HD.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13719.ts
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://toptv2.com:25461/logos/National_Geographic.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13718.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="DOCUMENTARIOS",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13885.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13848.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/History_HD.png" group-title="DOCUMENTARIOS",THE HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13709.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://toptv2.com:25461/logos/TLC_HD.png" group-title="DOCUMENTARIOS",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13744.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOADING.... HD" tvg-logo="https://i.dlpng.com/static/png/6826564_preview.png" group-title="ENTRETENIMENTO",LOADING.... HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36412.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 4K" tvg-logo="http://toptv2.com:25461/logos/a-fazenda.png" group-title="ENTRETENIMENTO",A FAZENDA 12 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14121.ts
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 4K" tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="ENTRETENIMENTO",ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13758.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA 4K" tvg-logo="http://toptv2.com:25461/logos/cancao-nova.png" group-title="ENTRETENIMENTO",CANCAO NOVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13777.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13776.ts
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="ENTRETENIMENTO",CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13873.ts
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 2" tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="ENTRETENIMENTO",E! 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13683.ts
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="ENTRETENIMENTO",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14129.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT + 4K" tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="ENTRETENIMENTO",GLOBOSAT + 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13700.ts
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI 4K" tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png" group-title="ENTRETENIMENTO",INTER TV CABUGI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14163.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://toptv2.com:25461/logos/multishow_hd.png" group-title="ENTRETENIMENTO",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13717.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://toptv2.com:25461/logos/polishop.png" group-title="ENTRETENIMENTO",POLISHOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13889.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="ENTRETENIMENTO",RAI ITALIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27254.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA HD" tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="ENTRETENIMENTO",REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13918.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL" tvg-logo="http://toptv2.com:25461/logos/SIC_INTERNACIOANL.png" group-title="ENTRETENIMENTO",SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13900.ts
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="ENTRETENIMENTO",TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13902.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA" tvg-logo="http://toptv2.com:25461/logos/viva.png" group-title="ENTRETENIMENTO",VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13864.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13749.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO" tvg-logo="http://toptv2.com:25461/logos/WOHOO.png" group-title="ENTRETENIMENTO",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13906.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO UHD" tvg-logo="http://toptv2.com:25461/logos/WOHOO_UHD.png" group-title="ENTRETENIMENTO",WOOHOO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14135.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB BRASIL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/9137/brand.gif?itok=Mc6oP5BG" group-title="ENTRETENIMENTO",BBB BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44192.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_4K.png" group-title="NOTICIAS",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36881.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/39357.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CANADA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CANADA_HD.png" group-title="NOTICIAS",CNN CANADA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36885.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CHILE_HD.png" group-title="NOTICIAS",CNN CHILE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36883.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN COLOMBIA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_COLOMBIA_HD.png" group-title="NOTICIAS",CNN COLOMBIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36886.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANA HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36890.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13871.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36892.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN EUROPE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_EUROPE_HD.png" group-title="NOTICIAS",CNN EUROPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36884.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://toptv2.com:25461/logos/cnn-international.png" group-title="NOTICIAS",CNN INTERNACIONAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36893.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="NOTICIAS",CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14177.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN MEXICO HD" tvg-logo="http://toptv2.com:25461/logos/CNN_MEXICO_HD.png" group-title="NOTICIAS",CNN MEXICO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36889.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN SERIES HD" tvg-logo="http://toptv2.com:25461/logos/CNN_ORIGINAL_SERIES_HD.png" group-title="NOTICIAS",CNN SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41863.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_TURK_HD.png" group-title="NOTICIAS",CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36887.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN UK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="NOTICIAS",CNN UK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36891.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="NOTICIAS",CNN USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36882.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT HD" tvg-logo="http://toptv2.com:25461/logos/CNT.png" group-title="NOTICIAS",CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41309.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCH HD" tvg-logo="http://toptv2.com:25461/logos/DW_HD.png" group-title="NOTICIAS",DW DEUTSCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27258.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14093.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS MG HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13880.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14176.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP UHD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13698.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS CORONAVIRUS 4K" tvg-logo="http://toptv2.com:25461/logos/CONECTV%20SP.png" group-title="NOTICIAS",NEWS CORONAVIRUS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36915.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK 4K" tvg-logo="http://img.miptv.ws/NHK.png" group-title="NOTICIAS",NHK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13884.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS U4K" tvg-logo="http://toptv2.com:25461/logos/Record_News_U4K.png" group-title="NOTICIAS",RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14114.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS UHD" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13761.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://toptv2.com:25461/logos/TV5.png" group-title="NOTICIAS",TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13914.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="NOTICIAS",TVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14168.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA",BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13668.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE UHD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="TV ABERTA",BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27700.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP 4K" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14179.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="TV ABERTA",BOA VONTADE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13869.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV HD" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="TV ABERTA",BOA VONTADE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36288.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="TV ABERTA",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13772.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPTV CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CENTRAL.png" group-title="TV ABERTA",EPTV CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33369.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="TV ABERTA",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13878.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14153.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_HD_GLOBO.png" group-title="TV ABERTA",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14091.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36282.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO 4K" tvg-logo="http://toptv2.com:25461/logos/EPTV_RIBEIRAO_PRETO_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV RIBEIRAO PRETO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36284.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_SAO_CARLOS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV SAO CARLOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36285.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO 4K" tvg-logo="http://toptv2.com:25461/logos/MG_UHD_GLOBO.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14169.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36287.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV JUIZ DE FORA HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_JUIZ_DE_FORA_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV JUIZ DE FORA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36286.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS 4K" tvg-logo="http://toptv2.com:25461/logos/MINAS_4K_GLOBO.png" group-title="TV ABERTA",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13909.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_4K_GLOBO.png" group-title="TV ABERTA",GLOBO NORDESTE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41859.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_HD_GLOBO.png" group-title="TV ABERTA",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41860.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL 4K" tvg-logo="http://toptv2.com:25461/logos/portugal_GLOBO.png" group-title="TV ABERTA",GLOBO PORTUGAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41876.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36290.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA",GLOBO RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13879.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4k" tvg-logo="http://toptv2.com:25461/logos/RJ_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RJ 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13910.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/40917.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA PARANAESE 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC MARINGA PARANAESE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13908.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP 4K" tvg-logo="http://toptv2.com:25461/logos/SP_4K_GLOBO.png" group-title="TV ABERTA",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14090.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/Centro_America_GLOBO.png" group-title="TV ABERTA",GLOBO TV CENTRAL AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36283.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO 4K" tvg-logo="http://toptv2.com:25461/logos/Tvvv_diario.png" group-title="TV ABERTA",GLOBO TV DIARIO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33364.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA 4K" tvg-logo="http://toptv2.com:25461/logos/Tv_morena_GLOBO.png" group-title="TV ABERTA",GLOBO TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33363.ts
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Ideal_TV_logo.svg/revision/latest/scale-to-width-down/512?cb=20161026011832" group-title="TV ABERTA",IDEAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14109.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK UHD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="TV ABERTA",NHK UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13921.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSC BLUMENAU HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="TV ABERTA",NSC BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14161.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="TV ABERTA",RBI TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36294.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE 4K" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14148.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/record_bahia.png" group-title="TV ABERTA",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41299.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM HD" tvg-logo="http://toptv2.com:25461/logos/BELEM_RECORD.png" group-title="TV ABERTA",RECORD BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41291.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/Brasilia_RECORD.png" group-title="TV ABERTA",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41293.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS 4K" tvg-logo="http://toptv2.com:25461/logos/RECORD_CAMPINAS.png" group-title="TV ABERTA",RECORD CAMPINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41300.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_MINAS_HD.png" group-title="TV ABERTA",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41296.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NORDESTE RECIFE 4K" tvg-logo="http://toptv2.com:25461/logos/GOIAS_RECORD.png" group-title="TV ABERTA",RECORD NORDESTE RECIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41292.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_HD.png" group-title="TV ABERTA",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13896.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOA HD" tvg-logo="http://toptv2.com:25461/logos/ITAPOAN_RECORD.png" group-title="TV ABERTA",RECORD ITAPOA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41294.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/MANAUS_HD_RECORD.png" group-title="TV ABERTA",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41290.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS UHD." tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="TV ABERTA",RECORD NEWS UHD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41298.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_PARANA_HD.png" group-title="TV ABERTA",RECORD PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41295.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-tv-rio-hd_m.png" group-title="TV ABERTA",RECORD RIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41297.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K" tvg-logo="http://toptv2.com:25461/logos/RJ_4K_RECORED.png" group-title="TV ABERTA",RECORD RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14175.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP 4K" tvg-logo="http://toptv2.com:25461/logos/SP_4K_RECORDp.png" group-title="TV ABERTA",RECORD SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13728.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41289.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA MANAUS" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="TV ABERTA",REDE AMAZONICA MANAUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14115.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33373.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13831.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="TV ABERTA",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13833.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="http://toptv2.com:25461/logos/RIT.png" group-title="TV ABERTA",RIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14136.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K" tvg-logo="http://toptv2.com:25461/logos/4K_SBT.png" group-title="TV ABERTA",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41302.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/BRASIL_SBT.png" group-title="TV ABERTA",SBT BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41307.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT CIDADE VERDE HD" tvg-logo="http://toptv2.com:25461/logos/TV_Cidade_Verde.png" group-title="TV ABERTA",SBT CIDADE VERDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41301.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/SBT_Logo_1984.png/revision/latest/scale-to-width-down/340?cb=20190825025731" group-title="TV ABERTA",SBT GOIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41304.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/55/SBT_%281996-2001%29.png/revision/latest/top-crop/width/220/height/220?cb=20200318145135" group-title="TV ABERTA",SBT NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41305.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/42/Logotipo_do_SBT_Interior_RJ.png/200px-Logotipo_do_SBT_Interior_RJ.png" group-title="TV ABERTA",SBT RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41306.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://toptv2.com:25461/logos/SD_SBT.png" group-title="TV ABERTA",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41303.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV JORNAL RJ 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT TV JORNAL RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13920.ts
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA" tvg-logo="http://toptv2.com:25461/logos/Terra_Viva.png" group-title="TV ABERTA",TERRA VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14145.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="http://toptv2.com:25461/logos/TV_Anhangueraaa.png" group-title="TV ABERTA",TV ANHANGUERA GOIANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13915.ts
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA 4K" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="TV ABERTA",TV APARECIDA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA 4K" tvg-logo="http://toptv2.com:25461/logos/tv_bahia.png" group-title="TV ABERTA",TV BAHIA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36289.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://toptv2.com:25461/logos/tv_brasil_2.png" group-title="TV ABERTA",TV BRASIL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33508.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/Tv_brasil.png" group-title="TV ABERTA",TV BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="TV ABERTA",TV CAMARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13911.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="TV ABERTA",TV CENTRAL AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13792.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="TV ABERTA",TV CULTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13855.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="TV ABERTA",TV DIARIO FORTALEZA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCAÇÃO" tvg-logo="http://toptv2.com:25461/logos/TV_Clube_GLOBO.png" group-title="TV ABERTA",TV EDUCAÇÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33371.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA HD" tvg-logo="http://toptv2.com:25461/logos/TV-Escola.png" group-title="TV ABERTA",TV ESCOLA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13857.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD " tvg-logo="http://toptv2.com:25461/logos/TV_ALTO_LITTORAL.png" group-title="TV ABERTA",TV GUARULHOS HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14092.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png" group-title="TV ABERTA",TV HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36291.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICIA HD" tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="TV ABERTA",TV JUSTICIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13903.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL BELEM HD" tvg-logo="http://images.mi.tv/channels/br_tv-liberal_m.png" group-title="TV ABERTA",TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14146.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="TV ABERTA",TV NOVO TEMPO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://toptv2.com:25461/logos/TV_Pai_Eterno.png" group-title="TV ABERTA",TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41861.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM UHD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="TV ABERTA",TV RA TIM BUM UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14095.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="TV ABERTA",TV SENADO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13912.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_BAURU.png" group-title="TV ABERTA",TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13856.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SAO JOSE DP RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA",TV TEM SAO JOSE DP RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33509.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13916.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33370.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13913.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS HD" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36293.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36292.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES FORTALEZA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="TV ABERTA",TV VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33366.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="TV ABERTA",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44259.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/4679/brand.gif?itok=Xj6Hpup2" group-title="TV ABERTA",CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44291.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="TV ABERTA",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44301.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUAÇU Full HD" tvg-logo="" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44585.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD 2" tvg-logo="" group-title="TV ABERTA",GLOBO SP SD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44627.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS 4K" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13670.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://toptv2.com:25461/logos/combate_4K.png" group-title="ESPORTES",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14178.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE UHD" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13675.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV1 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43521.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43522.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV3 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43523.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV4 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43524.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png" group-title="ESPORTES",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13893.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_2_UHD.png" group-title="ESPORTES",ESPN 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13860.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14111.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_UHD.png" group-title="ESPORTES",ESPN BRASIL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13686.ts
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA UHD" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27260.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13685.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_UHD.png" group-title="ESPORTES",ESPN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14112.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 U4K" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13694.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 UHD" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14107.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS U4K" tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="ESPORTES",FOX SPORTS U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13695.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS UHD" tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="ESPORTES",FOX SPORTS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14108.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC +" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PFC +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13820.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PREMIERE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41866.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MOSAICO PREMIERE" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES", MOSAICO PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41867.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="ESPORTES",PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41865.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="ESPORTES",PREMIERE 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13723.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="ESPORTES",PREMIERE 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41868.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="ESPORTES",PREMIERE 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13724.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="ESPORTES",PREMIERE 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41864.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="ESPORTES",PREMIERE 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13725.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="ESPORTES",PREMIERE 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41869.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="ESPORTES",PREMIERE 5 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_6.png" group-title="ESPORTES",PREMIERE 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41870.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_6.png" group-title="ESPORTES",PREMIERE 6 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13759.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="ESPORTES",PREMIERE 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41871.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="ESPORTES",PREMIERE 7 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13757.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_8.png" group-title="ESPORTES",PREMIERE 8 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13892.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_9.png" group-title="ESPORTES",PREMIERE 9 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13895.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14160.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13727.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 U4K" tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_U4K.png" group-title="ESPORTES",SPORTV 2 U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14170.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD" tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_UHD.png" group-title="ESPORTES",SPORTV 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13732.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 U4K" tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_U4K.png" group-title="ESPORTES",SPORTV 3 U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14159.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 UHD" tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_UHD.png" group-title="ESPORTES",SPORTV 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13733.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41872.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO 1" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14156.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO 2" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14126.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV U4K" tvg-logo="http://toptv2.com:25461/logos/Sport-TV_U4K.png" group-title="ESPORTES",SPORTV U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13762.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV UHD" tvg-logo="http://toptv2.com:25461/logos/Sport-TV.png" group-title="ESPORTES",SPORTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13734.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTV 4K" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="ESPORTES",BTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43623.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 4K PT" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="ESPORTES",SPORT TV 1 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43624.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 + 4K PT" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="ESPORTES",SPORT TV 1 + 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43625.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 2 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43626.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 3 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43627.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 4 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43628.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 5 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43629.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOMBATE 4K PT" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="ESPORTES",KOMBATE 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43630.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 4K PT" tvg-logo="https://i.pinimg.com/236x/6c/00/3e/6c003e58864b9e46389a4c25e09838f6.jpg" group-title="ESPORTES",EUROSPORT 1 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43631.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 4K PT" tvg-logo="https://1.bp.blogspot.com/-x2K22z3gnH4/V_DtGEWhSYI/AAAAAAAACgE/Gebxp6soJaQZ-lpqhKxx_QOdGlk-VakPwCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="ESPORTES",EUROSPORT 2 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 4K PT" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAAA0lBMVEURJT7////mJTMAJT/hAAD//P386+vkBR3nGCfvhovoJTNHJT3PJTTDJTXkAAzYJjVhJTvve3/wjo3rU1b0rK3nLzbqRkv+8/PscXL1u7jlHi35xsrsaGn62dn5zc/85ObnP0LjABTpVVv0q7Dxg4X74Nzylp33t7jwfob0pablFij61dbkDiHvhoz98O74wsOkJTeVJTjwJTJ6JTnud3j2trobJT40JT1qJTqmJTevJTbubnbrX2Pwj5TpTU/sa2/nMjzynJrtfnu7JTYoJT12JTlKwOaiAAAKRklEQVR4nO2dC3faOBOGI0W2HOeL83HxBXEVhbAIF7cp6W67JEC7+///0o5km0sCoclyEazenh4wI+f4YYRGGkvyxYWRkZGRkZGRkZGRkZGRkZGRkZGRkZGR0Rnpcu86Kt3X36/3rt+/Ho3x8o9PN767Z+GbT38ch/Dy66dbdQV7/ue6/qfjOPETwB1ErvvtCHiXn+8Pgyd1//nwfNe3B/KflHt7fehKevnlgA4EF345OOD3AzoQXPj94IA3hwX83/EBBd2hhH6AnE2KO1Pke65egC6JuqG1M4XDImE6ATI+QztWhTKNAPmVtWtANOP6ALLpYOd8qN4S2gDG0XD3gOEo1gaQ7qGGIvSR6gP4cQ+A1tkDXmkEuI8qagANoAE0gAbQABpAA2gA9QXUqbN99sOl1wDtd2p4IlW072P/fcL4FAAT4oh3SqOs2iuAI4J3IX0BC54BNIAG0AAawPcD/nnugDOyk1vd+gKiDl250Xd+gCgp+Pz5LfezAkThoOh79MU1s20TEU6jL6pk2X2frCL6MW8Fr2vqngygVG9Ml25oYhF0t51xdxrjwYUbK+OlmROkv7X8qYzoF7KX5oaQ3hkCQj0lc2334ImkLFZVL/dSlcPzBHyDDODJA55iI/MmwHP3IHo8DcCw/F7V9Jmr9hrgk8ffOev3NDrbxXNP/J59yuLsk04G0AAaQAO4X8Bzj4MDTneR2tYXECUlj2++8DMARGFSIt6/zd7rDCjraWHKxfOaGlP+mlaX2GkOiFC9H/B4hc+J+uX+ayqPT2O4lKtZDpYrKp1sTaudyIB3ofCRLJxIytuKn2JOZhDwfBbTLwCeYk7GjlpPSkErOUtAZNdzbT3jNAHfIANoAA2gATSABtAAagJoVmG/B1Cn0UTnzD0oxvbuAe2aow0go1sHP29XdXnpy7H3k4nHO9+OxIqWpyceGxB70dYUyxt1tZLzPzogJu2d1tLBZDXlf3xAnxIRlHYlTLivGSDe6cZq8fM/rgXgPmUADaAB/C8Cko3yNmnzKa8K4yMAOvihWqmUe+om2J3U49Vjps4mPa7obq75PbNeuQz/e4lUr6rUqCdYHAPQ38N2eOtl+84xAN09jJE2ALpHAcSHA8QG0AAawP86oF2uZIJPrUav0sutw9zQ60IxMDRUCq7bq5TlvrJJL7PKj214I1/rPfV3dAKs5r0X8oBQ2CbefP3cgGUmMkOoQT3iq/NqhKsVaK3cKueVVKGr4w+QVYQPE90AXewKxlgMFxbWqBvnF6j26gUDkzzDJyEcdV6LuqQBryWeWvkIABvwhlaQdcddVtULsAH9Raa6mg8KEK8AMi5N4EE0oS6XXIgK5lkZIFhTDwIgpj8sa0axboBVgmnbknsxWS8BRak+BItMvD0S7EnQLsGxj1JAkoRyDyeUAgpsWzOuIyAf5wcvABeZ7zKUi5BcC5qVl4D1eT0AQBd+fXd6ArY3ApaauWkAng7g9Q48eZUDNpYB5RdwwoChx0QMryOOvd56QCdGfT0BxygMQ2ttFe2CJc19+7FLuigsOYx251U0zE5UgJjYFS0B2XQURbXZGkB3WgNLRxGOZaOC6lPXmdoZoBhHYB4sAGc9/cJElajdKWIyWQOI3ZjGXkuVL3oAgBKB43aYAWJHJnsfMkDminZR6AnIOSe1tYAULKnHeh72CqhMMS3kgL6a3JwDBr6LS1hHQDYtRNG4v7aKTkbRJK2iXcrisXzWAk+3ClBVdLSoomw0AfdhHX+Dr8TB9qKoPRUssIo0v2n6PA7GxbKaF6wj4OYw0Z6HCeiIx25rMHKY35gDzp9WAYB01vRPD7C0BPiDYr/fFiKozwGX4yAtorZzCoDOBg+qIP7ku85kuNaDcUH2V/UEHCP5xJ0FYHqQAmYWUEIhFGAMnloCzMwScGQ1NAVk06JMXg9SQFa76nQK9awVLYBhlPq04avZE1kjKgGdiSzatzIPhkguetENUH7rrozXPB3wqhu+nFSzAW8MlmwLmXqgVrSowA5q0zTQkyicA465foBVEqdSgOP0iHpwlQOfp5YMcFjzpElkLctTdqKap9FIQRP5mWaAA9mfVIILD2e19L2M3s0fmaFWUSWtsjROOtmdjWJedAaAdflqoTCaRNFAL0A0DFMNVSuTHg3lgZUdpBZJKI+H+byauTVUpqF6haOhpRmguvTnH/yy8fWiWgA2awz6zNSdyatrQnfFhR5lK0qjebUk5JJAf6b8NvLks1nZ9KkiU6GtOHsgrUOlsTyNoaho1TUDtHwSi9gRlMj41ixBwwKDJ0o8WWjAPSczSvwJcaQx5jJ3audtEByCrUKocGLhcFbXC1AOl2TbiMVTU3pQDZGoHLyC8QqM1KHCd1TSdwRRAIyuT6HFtB3ixXIrQI9IwBr3GXwxOM29aQTYJ5hGduNJqAe9AaB4qtQ7VI791Cjem9mDQLA4BWSsMuj7THbhwocPD4UY88LDhw8qMcxYYs8cl17pBXhHVJ8ZhkFylACATs1GNmV8BMYSZQTq5keS5mFGXDAbDcdO3gkH95M0htgBo+MQ1adseZq0JoBeBYUjj7IMELxTB8CCAnQJoPy2ABQ2/E7no4wPXr4iFDwoUxkNh5KOfoA9ZHX8VjDIAO0FIE8BvV8CDEI0CFr+o3aAzrQBkVrl7p8D0nWA7XWAAcNxYQiR3l6aYasDYEKwLwi+6qrrygCbGwFZ0+qWhJOl9BeAqp/tkXZvJcbqAGgFRA4aPDJpZoDjIWryvJF5Buiy0dWYufEMPQdMCDRTjBOnr5kHUbfI5Ea+jEPrKQFZ0C+P4jRMvPgNyvFTjON8ovcSIOqVuAdflbO8AakWgMiyyy3wIstaUZXshUB/t86D8DnhmPnVl4AobHS47BgU9GpkrFDmHAYQp50c0IGeDfGtdYCM9R86DNPa8Dlgmrt4dNzlB6fqAJj8KP4YyIfn5oDudPJn1LlLb7C8bGSG68NEOOt0oEcOo/54aaGCDoCPhMprfKQ5oCPvKGW1bH0cXBsmWh5p2ToCpj0ZdLcEuDDLrpq90lXb0pPREHAGgGUrhL6oaMzj4BwwvQc4ob8C6ARNqzFluv0GewQz9882jGP9l4ARx6I1aTMswVQjswkQtWMsSpNArCzZ0wHQJg5mckGHN7ZfAFYIsKmgMQ5f96DazRIGvNj1lrYr0QEQBoSpVDqwHhCytNd72MmM6UPBx/AOhhotQrLERD+bRAOyWlnRkXZJpzCR063T0G01kqSxnDqylTHLBNYrSWItl2lWkkXns6umba/shK8H4B51JMADztk+BuBPxrc+UGFX6nL28+CAX+557VCAEb//cnDA61uX7GFp8jo1CLu9PjTgxcVnlzmz5vbL+7dq9gVzPx8c7+Lyr5t7RltRYb/6LWpRdn/z1+EdeHF5+Q27gm9ch7UjyU0Rv10egU8i/v395nbvuvn593HwJOHF9f/3ruuvR+OTiAfQEfGMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIzeqH8Ab0r5XxnOFlUAAAAASUVORK5CYII=" group-title="ESPORTES",ELEVEN SPORTS 1 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 4K PT" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAAA0lBMVEURJT7////mJTMAJT/hAAD//P386+vkBR3nGCfvhovoJTNHJT3PJTTDJTXkAAzYJjVhJTvve3/wjo3rU1b0rK3nLzbqRkv+8/PscXL1u7jlHi35xsrsaGn62dn5zc/85ObnP0LjABTpVVv0q7Dxg4X74Nzylp33t7jwfob0pablFij61dbkDiHvhoz98O74wsOkJTeVJTjwJTJ6JTnud3j2trobJT40JT1qJTqmJTevJTbubnbrX2Pwj5TpTU/sa2/nMjzynJrtfnu7JTYoJT12JTlKwOaiAAAKRklEQVR4nO2dC3faOBOGI0W2HOeL83HxBXEVhbAIF7cp6W67JEC7+///0o5km0sCoclyEazenh4wI+f4YYRGGkvyxYWRkZGRkZGRkZGRkZGRkZGRkZGRkZGR0Rnpcu86Kt3X36/3rt+/Ho3x8o9PN767Z+GbT38ch/Dy66dbdQV7/ue6/qfjOPETwB1ErvvtCHiXn+8Pgyd1//nwfNe3B/KflHt7fehKevnlgA4EF345OOD3AzoQXPj94IA3hwX83/EBBd2hhH6AnE2KO1Pke65egC6JuqG1M4XDImE6ATI+QztWhTKNAPmVtWtANOP6ALLpYOd8qN4S2gDG0XD3gOEo1gaQ7qGGIvSR6gP4cQ+A1tkDXmkEuI8qagANoAE0gAbQABpAA2gA9QXUqbN99sOl1wDtd2p4IlW072P/fcL4FAAT4oh3SqOs2iuAI4J3IX0BC54BNIAG0AAawPcD/nnugDOyk1vd+gKiDl250Xd+gCgp+Pz5LfezAkThoOh79MU1s20TEU6jL6pk2X2frCL6MW8Fr2vqngygVG9Ml25oYhF0t51xdxrjwYUbK+OlmROkv7X8qYzoF7KX5oaQ3hkCQj0lc2334ImkLFZVL/dSlcPzBHyDDODJA55iI/MmwHP3IHo8DcCw/F7V9Jmr9hrgk8ffOev3NDrbxXNP/J59yuLsk04G0AAaQAO4X8Bzj4MDTneR2tYXECUlj2++8DMARGFSIt6/zd7rDCjraWHKxfOaGlP+mlaX2GkOiFC9H/B4hc+J+uX+ayqPT2O4lKtZDpYrKp1sTaudyIB3ofCRLJxIytuKn2JOZhDwfBbTLwCeYk7GjlpPSkErOUtAZNdzbT3jNAHfIANoAA2gATSABtAAagJoVmG/B1Cn0UTnzD0oxvbuAe2aow0go1sHP29XdXnpy7H3k4nHO9+OxIqWpyceGxB70dYUyxt1tZLzPzogJu2d1tLBZDXlf3xAnxIRlHYlTLivGSDe6cZq8fM/rgXgPmUADaAB/C8Cko3yNmnzKa8K4yMAOvihWqmUe+om2J3U49Vjps4mPa7obq75PbNeuQz/e4lUr6rUqCdYHAPQ38N2eOtl+84xAN09jJE2ALpHAcSHA8QG0AAawP86oF2uZIJPrUav0sutw9zQ60IxMDRUCq7bq5TlvrJJL7PKj214I1/rPfV3dAKs5r0X8oBQ2CbefP3cgGUmMkOoQT3iq/NqhKsVaK3cKueVVKGr4w+QVYQPE90AXewKxlgMFxbWqBvnF6j26gUDkzzDJyEcdV6LuqQBryWeWvkIABvwhlaQdcddVtULsAH9Raa6mg8KEK8AMi5N4EE0oS6XXIgK5lkZIFhTDwIgpj8sa0axboBVgmnbknsxWS8BRak+BItMvD0S7EnQLsGxj1JAkoRyDyeUAgpsWzOuIyAf5wcvABeZ7zKUi5BcC5qVl4D1eT0AQBd+fXd6ArY3ApaauWkAng7g9Q48eZUDNpYB5RdwwoChx0QMryOOvd56QCdGfT0BxygMQ2ttFe2CJc19+7FLuigsOYx251U0zE5UgJjYFS0B2XQURbXZGkB3WgNLRxGOZaOC6lPXmdoZoBhHYB4sAGc9/cJElajdKWIyWQOI3ZjGXkuVL3oAgBKB43aYAWJHJnsfMkDminZR6AnIOSe1tYAULKnHeh72CqhMMS3kgL6a3JwDBr6LS1hHQDYtRNG4v7aKTkbRJK2iXcrisXzWAk+3ClBVdLSoomw0AfdhHX+Dr8TB9qKoPRUssIo0v2n6PA7GxbKaF6wj4OYw0Z6HCeiIx25rMHKY35gDzp9WAYB01vRPD7C0BPiDYr/fFiKozwGX4yAtorZzCoDOBg+qIP7ku85kuNaDcUH2V/UEHCP5xJ0FYHqQAmYWUEIhFGAMnloCzMwScGQ1NAVk06JMXg9SQFa76nQK9awVLYBhlPq04avZE1kjKgGdiSzatzIPhkguetENUH7rrozXPB3wqhu+nFSzAW8MlmwLmXqgVrSowA5q0zTQkyicA465foBVEqdSgOP0iHpwlQOfp5YMcFjzpElkLctTdqKap9FIQRP5mWaAA9mfVIILD2e19L2M3s0fmaFWUSWtsjROOtmdjWJedAaAdflqoTCaRNFAL0A0DFMNVSuTHg3lgZUdpBZJKI+H+byauTVUpqF6haOhpRmguvTnH/yy8fWiWgA2awz6zNSdyatrQnfFhR5lK0qjebUk5JJAf6b8NvLks1nZ9KkiU6GtOHsgrUOlsTyNoaho1TUDtHwSi9gRlMj41ixBwwKDJ0o8WWjAPSczSvwJcaQx5jJ3audtEByCrUKocGLhcFbXC1AOl2TbiMVTU3pQDZGoHLyC8QqM1KHCd1TSdwRRAIyuT6HFtB3ixXIrQI9IwBr3GXwxOM29aQTYJ5hGduNJqAe9AaB4qtQ7VI791Cjem9mDQLA4BWSsMuj7THbhwocPD4UY88LDhw8qMcxYYs8cl17pBXhHVJ8ZhkFylACATs1GNmV8BMYSZQTq5keS5mFGXDAbDcdO3gkH95M0htgBo+MQ1adseZq0JoBeBYUjj7IMELxTB8CCAnQJoPy2ABQ2/E7no4wPXr4iFDwoUxkNh5KOfoA9ZHX8VjDIAO0FIE8BvV8CDEI0CFr+o3aAzrQBkVrl7p8D0nWA7XWAAcNxYQiR3l6aYasDYEKwLwi+6qrrygCbGwFZ0+qWhJOl9BeAqp/tkXZvJcbqAGgFRA4aPDJpZoDjIWryvJF5Buiy0dWYufEMPQdMCDRTjBOnr5kHUbfI5Ea+jEPrKQFZ0C+P4jRMvPgNyvFTjON8ovcSIOqVuAdflbO8AakWgMiyyy3wIstaUZXshUB/t86D8DnhmPnVl4AobHS47BgU9GpkrFDmHAYQp50c0IGeDfGtdYCM9R86DNPa8Dlgmrt4dNzlB6fqAJj8KP4YyIfn5oDudPJn1LlLb7C8bGSG68NEOOt0oEcOo/54aaGCDoCPhMprfKQ5oCPvKGW1bH0cXBsmWh5p2ToCpj0ZdLcEuDDLrpq90lXb0pPREHAGgGUrhL6oaMzj4BwwvQc4ob8C6ARNqzFluv0GewQz9882jGP9l4ARx6I1aTMswVQjswkQtWMsSpNArCzZ0wHQJg5mckGHN7ZfAFYIsKmgMQ5f96DazRIGvNj1lrYr0QEQBoSpVDqwHhCytNd72MmM6UPBx/AOhhotQrLERD+bRAOyWlnRkXZJpzCR063T0G01kqSxnDqylTHLBNYrSWItl2lWkkXns6umba/shK8H4B51JMADztk+BuBPxrc+UGFX6nL28+CAX+557VCAEb//cnDA61uX7GFp8jo1CLu9PjTgxcVnlzmz5vbL+7dq9gVzPx8c7+Lyr5t7RltRYb/6LWpRdn/z1+EdeHF5+Q27gm9ch7UjyU0Rv10egU8i/v395nbvuvn593HwJOHF9f/3ruuvR+OTiAfQEfGMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIzeqH8Ab0r5XxnOFlUAAAAASUVORK5CYII=" group-title="ESPORTES",ELEVEN SPORTS 2 4K PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/43634.ts
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44299.ts
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44300.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/893_imgbank_rj1_20180312095157.png" group-title="ESPORTES",CAMPEONATO CARIOCA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44365.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/893_imgbank_rj1_20180312095157.png" group-title="ESPORTES",CAMPEONATO CARIOCA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44366.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA +1 HD" tvg-logo="" group-title="ESPORTES",CAMPEONATO CARIOCA +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44297.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA +2 HD" tvg-logo="" group-title="ESPORTES",CAMPEONATO CARIOCA +2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44298.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title="ESPORTES",TNT SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44384.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ORIGINAIS" tvg-logo="" group-title="ESPORTES",TNT SPORTS ORIGINAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44386.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44387.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT PROGRAMAÇÂO" tvg-logo="" group-title="ESPORTES",ESTADIO TNT PROGRAMAÇÂO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44391.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS MELHORES MOMENTOS" tvg-logo="" group-title="ESPORTES",TNT SPORTS MELHORES MOMENTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 3" tvg-logo="" group-title="ESPORTES",Copa do Nordeste 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 4" tvg-logo="" group-title="ESPORTES",Copa do Nordeste 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 5" tvg-logo="" group-title="ESPORTES",Copa do Nordeste 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45047.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD 4K" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 01 HD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45187.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD 4K" tvg-logo="" group-title="ESPORTES",ESTADIO TNT SPORT 02 HD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45188.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA +3 HD" tvg-logo="" group-title="ESPORTES",CAMPEONATO CARIOCA +3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45256.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA +4 HD" tvg-logo="" group-title="ESPORTES",CAMPEONATO CARIOCA +4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45257.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1" tvg-logo="" group-title="ESPORTES",CAMPEONATO CATARINENSE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45421.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="" group-title="ESPORTES",CAMPEONATO CATARINENSE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45422.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="" group-title="ESPORTES",CAMPEONATO CATARINENSE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/45423.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDN EXTRA" tvg-logo="" group-title="ESPORTES",TDN EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/46187.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 BRASIL HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 1 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36297.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 EUR HD H265" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 1 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33310.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 LATINO (Solo Eventos)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 1 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/40840.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 BRASIL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 2 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36296.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 EUR HD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 2 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33311.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 LATINO (Solo Eventos)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 2 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/40841.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 BRASIL HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 3 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41071.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1 HD H265" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN BAR 1 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33313.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2 HD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN BAR 2 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/33314.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36298.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36295.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB 4K&8K" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS",GLOOB 4K&8K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44133.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG 4K&8K" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS",BOOMERANG 4K&8K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM 4K & 8K" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS",TV RA TIM BUM 4K & 8K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44145.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS 4K&8K" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K&8K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44158.ts
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/22367.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13753.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13673.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV 4K&8K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K&8K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41311.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13678.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HD" tvg-logo="http://toptv2.com:25461/logos/Disney.png" group-title="INFANTIS",DISNEY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png" group-title="INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13682.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="INFANTIS",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13754.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="http://toptv2.com:25461/logos/Disney_XD.png" group-title="INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27257.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13701.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://toptv2.com:25461/logos/gloobinho.png" group-title="INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27312.ts
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="INFANTIS",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13752.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD" tvg-logo="http://toptv2.com:25461/logos/nick-jr.png" group-title="INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13720.ts
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41370.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",TOM E JERRY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41074.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://toptv2.com:25461/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13852.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13904.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="http://toptv2.com:25461/logos/ZooMoo.png" group-title="INFANTIS",ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14130.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HOLLYWOOD HD PPV" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE HOLLYWOOD HD PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO PPV 4K" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE MUNDO PPV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31602.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 1 UHD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31014.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 2 UHD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31015.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 3 UHD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31016.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 4 UHD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31017.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 5 UHD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 5 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31018.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE TOP HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31021.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE EDITION HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31022.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTON HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE EMOTON HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31023.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE ACTION HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/31024.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 1 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44330.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 2 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 2 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44331.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 3 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 3 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44332.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 4 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 4 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44333.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 5 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44334.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 6 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 6 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44335.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 7 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 7 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44336.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 8 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 8 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44337.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 9 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 9 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44338.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 10 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44339.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 11 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 11 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44340.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 12 PPV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44341.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 1 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44342.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 2 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 2 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44343.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 3 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 3 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44344.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 4 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 4 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44345.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 5 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44346.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 6 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 6 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44347.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 7 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 7 PPV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44348.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44349.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44350.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44351.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44352.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44353.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44354.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44355.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44356.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44357.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44358.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44359.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44360.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44361.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44362.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44363.ts
