@@ -136,50 +136,50 @@ http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13750.ts
 http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44132.ts
 #EXTINF:-1 tvg-id="" tvg-name="BABY LAND" tvg-logo="" group-title="FILMES & SERIES",BABY LAND
 http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44185.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN 4K LEG" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE8Udvel-OdtA/company-logo_200_200/0?e=2159024400&v=beta&t=dJltNOaLsrczE0PnOChuPdgdpegZn0h1IBSOicStJY4" group-title="LEGENDADO EN & BR",AXN 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34256.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK 4K LEG" tvg-logo="https://seeklogo.com/images/A/axn-black-logo-957F60EDA3-seeklogo.com.png" group-title="LEGENDADO EN & BR",AXN BLACK 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34257.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_white.png?itok=-PuUuxuu" group-title="LEGENDADO EN & BR",AXN WHITE 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34258.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSneX81hk55AP-IDCkkCI6HLXDpbHSkrB8afU6BWUUK-D8NVU4p" group-title="LEGENDADO EN & BR",CINE MUNDO 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34288.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2019_discovery_logo.svg_.png?h8h75sfVrDkARtI9NxHArGmxW49BMJuI&itok=s5_yv3rT" group-title="LEGENDADO EN & BR",DISCOVERY CHANNEL 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34289.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID 4K LEG" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LEGENDADO EN & BR",DISCOVERY ID 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34311.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY 4K LEG" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="LEGENDADO EN & BR",FOX COMEDY 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34278.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ4Nqe4KLocpEDx1aZJLfDqFqfiZWRn_SjHhvq9J90Rs6vr2Yj" group-title="LEGENDADO EN & BR",FOX CRIME 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34279.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHfSUXj-pnlaUrvfc4_x7Wbr0KtlUnLXpnqBV3a6Z_weDvzaco" group-title="LEGENDADO EN & BR",FOX MOVIES 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34277.ts
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="HBO 3 4K" tvg-logo="https://4.bp.blogspot.com/-e6U0SRAocBI/VvFq_nI11EI/AAAAAAAAPy4/vYR5oufvEvUxJsuIV3NH7gTh_WS8iZCbQ/s1600/HBO%2B3%2BHD%2Bwhite%2Bbg.jpg" group-title="LEGENDADO EN & BR",HBO 3 4K
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13714.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSp9MQDg-8hwTnZBPAGRTM0KCL1TkbdAGYZiQ&usqp=CAU" group-title="LEGENDADO EN & BR",HBO MUNDI 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36279.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYQ8DMRG2YSq3na0Y0WOKsq9RtO8VT9i2U6s5T61j9XkGbSGj0" group-title="LEGENDADO EN & BR",HBO POP 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36281.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1lFY1SFjvO1rz5PE9-eLXUPNCbCx2F5gDwJr3MyZXdFv8HVwl" group-title="LEGENDADO EN & BR",HBO XTREME 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/36280.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRASHIC 4K LEG" tvg-logo="https://www.swapy.com.br/wp-content/uploads/2019/07/nationa-geographic.png" group-title="LEGENDADO EN & BR",NATIONAL GEOGRASHIC 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34320.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER 4K LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/4575/brand.gif?itok=ihFEaiAi" group-title="LEGENDADO EN & BR",SIC MULHER 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34284.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC 1 4K LEG" tvg-logo="https://4.bp.blogspot.com/_m9pOjNr3Zn8/SL8l22HvEII/AAAAAAAACG0/_bYo1wCIues/s320/tvcine1.jpg" group-title="LEGENDADO EN & BR",TVC 1 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34271.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC 2 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnSQ0mRuIglkyDa7PsxORInCKhauKYWqNBaPMPTVkcvgMHmvyK" group-title="LEGENDADO EN & BR",TVC 2 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34272.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC 3 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWUcJ8UwmQebVAIstUCSpzzPuU_D1gV6Xp5AEG33u2qYL4jH9w" group-title="LEGENDADO EN & BR",TVC 3 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34273.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC 4 4K LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOrqonQS0FOoz0kNzJKSPIHuEJHwg3GwsKfNrfDQhG2B10zygT" group-title="LEGENDADO EN & BR",TVC 4 4K LEG
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/34274.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION LEG 4K" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcineaction-e1583912767831.png" group-title="LEGENDADO EN & BR",TVCINE ACTION LEG 4K
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41875.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION LEG 4K" tvg-logo="https://www.dstvafrica.com/media/8918/tvcine_emotion.jpg" group-title="LEGENDADO EN & BR",TVCINE EDITION LEG 4K
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41874.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP LEG 4K" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcinetop-e1583912798176.png" group-title="LEGENDADO EN & BR",TVCINE TOP LEG 4K
-http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41873.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG 4K&8K" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS",BOOMERANG 4K&8K
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM 4K & 8K" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS",TV RA TIM BUM 4K & 8K
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44145.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS 4K&8K" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K&8K
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/44158.ts
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/22367.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS",BOOMERANG HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13753.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="INFANTIS",CARTOON NETWORK HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13673.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV 4K&8K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K&8K
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41311.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13678.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HD" tvg-logo="http://toptv2.com:25461/logos/Disney.png" group-title="INFANTIS",DISNEY HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png" group-title="INFANTIS",DISNEY CHANNEL HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13682.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="INFANTIS",DISNEY JUNIOR HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13754.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="http://toptv2.com:25461/logos/Disney_XD.png" group-title="INFANTIS",DISNEY XD HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27257.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS",GLOOB HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13701.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://toptv2.com:25461/logos/gloobinho.png" group-title="INFANTIS",GLOOBINHO HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/27312.ts
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="INFANTIS",NATGEO KIDS HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13752.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD" tvg-logo="http://toptv2.com:25461/logos/nick-jr.png" group-title="INFANTIS",NICK JR HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13720.ts
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",PANDA HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41370.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",TOM E JERRY HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/41074.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://toptv2.com:25461/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13852.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/13904.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="http://toptv2.com:25461/logos/ZooMoo.png" group-title="INFANTIS",ZOOMOO HD
+http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14130.ts
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_4K.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
 http://212.8.243.99:2095/live/dtv_627157/0JsXwMcW/14154.ts
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
